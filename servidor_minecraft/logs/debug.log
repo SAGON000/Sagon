@@ -1,227 +1,227 @@
-[22Jul2025 21:02:55.538] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[22Jul2025 21:02:55.541] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[22Jul2025 21:02:55.565] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [fmlclientdev,forgeclient,minecraft,forgegametestserverdev,fmlserveruserdev,fmlclient,fmldatauserdev,forgeserverdev,forgeserveruserdev,forgeclientdev,forgeclientuserdev,forgeserver,forgedatadev,fmlserver,fmlclientuserdev,fmlserverdev,forgedatauserdev,testharness,forgegametestserveruserdev]
-[22Jul2025 21:02:55.576] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : [srgtomcp]
-[22Jul2025 21:02:55.591] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [mixin,eventbus,slf4jfixer,object_holder_definalize,runtime_enum_extender,capability_token_subclass,accesstransformer,runtimedistcleaner]
-[22Jul2025 21:02:55.600] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
-[22Jul2025 21:02:55.604] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is /workspaces/Sagon/servidor_minecraft
-[22Jul2025 21:02:55.604] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is /workspaces/Sagon/servidor_minecraft/mods
-[22Jul2025 21:02:55.605] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is /workspaces/Sagon/servidor_minecraft/config
-[22Jul2025 21:02:55.605] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is /workspaces/Sagon/servidor_minecraft/config/fml.toml
-[22Jul2025 21:02:59.676] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: [/workspaces/Sagon/servidor_minecraft/mods/redirector-5.0.0.jar]
-[22Jul2025 21:02:59.684] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22Jul2025 21:02:59.688] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
-[22Jul2025 21:02:59.693] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [mixin,redirector,fml]
-[22Jul2025 21:02:59.694] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
-[22Jul2025 21:02:59.694] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service mixin
-[22Jul2025 21:02:59.695] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service mixin
-[22Jul2025 21:02:59.695] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service redirector
-[22Jul2025 21:02:59.695] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service redirector
-[22Jul2025 21:02:59.695] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
-[22Jul2025 21:02:59.696] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 1.0
-[22Jul2025 21:02:59.696] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 1.0 loading
-[22Jul2025 21:02:59.696] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 10.0.9+10.0.9+main.dcd20f30
-[22Jul2025 21:02:59.697] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 8.0.4+66+master.c09db6d7
-[22Jul2025 21:02:59.697] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 6.0.5+6.0.5+master.eb8e549b
-[22Jul2025 21:02:59.697] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
-[22Jul2025 21:02:59.699] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 5.1.6
-[22Jul2025 21:02:59.699] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 7.0.1+7.0.1+master.d2b38bf6
-[22Jul2025 21:02:59.699] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 5
-[22Jul2025 21:02:59.699] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
-[22Jul2025 21:02:59.700] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
-[22Jul2025 21:02:59.705] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
-[22Jul2025 21:02:59.705] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service mixin
-[22Jul2025 21:02:59.721] [main/DEBUG] [mixin/]: MixinService [ModLauncher] was successfully booted in cpw.mods.cl.ModuleClassLoader@1e7c7811
-[22Jul2025 21:02:59.837] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Sagon/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[22Jul2025 21:02:59.840] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
-[22Jul2025 21:02:59.840] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ModLauncher Root Container(ModLauncher:4f56a0a2)
-[22Jul2025 21:02:59.841] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(ModLauncher:4f56a0a2)
-[22Jul2025 21:02:59.841] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(ModLauncher:4f56a0a2)
-[22Jul2025 21:02:59.842] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(ModLauncher:4f56a0a2)
-[22Jul2025 21:02:59.842] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ModLauncher Root Container(ModLauncher:4f56a0a2)
-[22Jul2025 21:02:59.845] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service mixin
-[22Jul2025 21:02:59.846] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service redirector
-[22Jul2025 21:02:59.846] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service redirector
-[22Jul2025 21:02:59.846] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
-[22Jul2025 21:02:59.846] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
-[22Jul2025 21:02:59.846] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is /workspaces/Sagon/servidor_minecraft
-[22Jul2025 21:02:59.847] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is /workspaces/Sagon/servidor_minecraft/mods
-[22Jul2025 21:02:59.847] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is /workspaces/Sagon/servidor_minecraft/config
-[22Jul2025 21:02:59.847] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is /workspaces/Sagon/servidor_minecraft/config/fml.toml
-[22Jul2025 21:02:59.847] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
-[22Jul2025 21:02:59.850] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing ModFile
-[22Jul2025 21:02:59.852] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing launch handler
-[22Jul2025 21:02:59.852] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Using forgeserver as launch service
-[22Jul2025 21:02:59.865] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Received command line version data  : VersionInfo[forgeVersion=47.3.7, mcVersion=1.20.1, mcpVersion=20230612.114412, forgeGroup=net.minecraftforge]
-[22Jul2025 21:02:59.866] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service fml
-[22Jul2025 21:02:59.867] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Current naming domain is 'srg'
-[22Jul2025 21:02:59.867] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Identified name mapping providers {}
-[22Jul2025 21:02:59.868] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services begin scanning
-[22Jul2025 21:02:59.868] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service mixin
-[22Jul2025 21:02:59.869] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service mixin
-[22Jul2025 21:02:59.869] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service redirector
-[22Jul2025 21:02:59.869] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service redirector
-[22Jul2025 21:02:59.869] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service fml
-[22Jul2025 21:02:59.869] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Initiating mod scan
-[22Jul2025 21:02:59.877] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModListHandler/CORE]: Found mod coordinates from lists: []
-[22Jul2025 21:02:59.880] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Mod Locators : (mods folder:null),(maven libs:null),(exploded directory:null),(minecraft:null),(userdev classpath:null)
-[22Jul2025 21:02:59.881] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Dependency Locators : (JarInJar:null)
-[22Jul2025 21:02:59.890] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/alexscaves-2.0.2.jar
-[22Jul2025 21:02:59.926] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file alexscaves-2.0.2.jar with {alexscaves} mods - versions {2.0.2}
-[22Jul2025 21:02:59.929] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/alexsmobs-1.22.9.jar
-[22Jul2025 21:02:59.931] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file alexsmobs-1.22.9.jar with {alexsmobs} mods - versions {1.22.9}
-[22Jul2025 21:02:59.932] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/balm-forge-1.20.1-7.3.33-all.jar
-[22Jul2025 21:02:59.934] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file balm-forge-1.20.1-7.3.33-all.jar with {balm} mods - versions {7.3.33}
-[22Jul2025 21:02:59.934] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/betterendcities-1.0.0-1.20.1.jar
-[22Jul2025 21:02:59.936] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file betterendcities-1.0.0-1.20.1.jar with {betterendcities} mods - versions {1.0.0-1.20.1}
-[22Jul2025 21:02:59.937] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/bfendcities-1.0.jar
-[22Jul2025 21:02:59.939] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file bfendcities-1.0.jar with {bfendcities} mods - versions {1.0}
-[22Jul2025 21:02:59.940] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/BOMD-Forge-1.20.1-1.1.1.jar
-[22Jul2025 21:02:59.942] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file BOMD-Forge-1.20.1-1.1.1.jar with {bosses_of_mass_destruction} mods - versions {1.1.1}
-[22Jul2025 21:02:59.942] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/caelus-forge-3.2.0+1.20.1.jar
-[22Jul2025 21:02:59.944] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file caelus-forge-3.2.0+1.20.1.jar with {caelus} mods - versions {3.2.0+1.20.1}
-[22Jul2025 21:02:59.944] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/CerbonsApi-Forge-1.20.1-1.0.0.jar
-[22Jul2025 21:02:59.945] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file CerbonsApi-Forge-1.20.1-1.0.0.jar with {cerbons_api} mods - versions {1.0.0}
-[22Jul2025 21:02:59.947] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/citadel-2.6.2-1.20.1.jar
-[22Jul2025 21:02:59.948] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file citadel-2.6.2-1.20.1.jar with {citadel} mods - versions {2.6.2}
-[22Jul2025 21:02:59.949] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
-[22Jul2025 21:02:59.950] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file cloth-config-11.1.136-forge.jar with {cloth_config} mods - versions {11.1.136}
-[22Jul2025 21:02:59.950] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Clumps-forge-1.20.1-12.0.0.4.jar
-[22Jul2025 21:02:59.951] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Clumps-forge-1.20.1-12.0.0.4.jar with {clumps} mods - versions {12.0.0.4}
-[22Jul2025 21:02:59.952] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/connectivity-1.20.1-7.1.jar
-[22Jul2025 21:02:59.953] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file connectivity-1.20.1-7.1.jar with {connectivity} mods - versions {1.20.1-7.1}
-[22Jul2025 21:02:59.954] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
-[22Jul2025 21:02:59.955] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file CreativeCore_FORGE_v2.12.32_mc1.20.1.jar with {creativecore} mods - versions {2.12.32}
-[22Jul2025 21:02:59.956] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar
-[22Jul2025 21:02:59.957] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file CullLessLeaves-Reforged-1.20.1-1.0.5.jar with {culllessleaves} mods - versions {1.20.1-1.0.5}
-[22Jul2025 21:02:59.957] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/cupboard-1.20.1-2.7.jar
-[22Jul2025 21:02:59.958] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file cupboard-1.20.1-2.7.jar with {cupboard} mods - versions {1.20.1-2.7}
-[22Jul2025 21:02:59.959] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
-[22Jul2025 21:02:59.960] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file curios-forge-5.14.1+1.20.1.jar with {curios} mods - versions {5.14.1+1.20.1}
-[22Jul2025 21:02:59.961] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/eeeabsmobs-1.20.1-0.97-Fix.jar
-[22Jul2025 21:02:59.962] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file eeeabsmobs-1.20.1-0.97-Fix.jar with {eeeabsmobs} mods - versions {1.20.1-0.97}
-[22Jul2025 21:02:59.962] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/ElysiumAPI-1.20.1-1.1.3.jar
-[22Jul2025 21:02:59.963] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ElysiumAPI-1.20.1-1.1.3.jar with {elysium_api} mods - versions {1.1.3}
-[22Jul2025 21:02:59.964] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/embeddium-0.3.31+mc1.20.1.jar
-[22Jul2025 21:02:59.965] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file embeddium-0.3.31+mc1.20.1.jar with {embeddium,rubidium} mods - versions {0.3.31+mc1.20.1,0.7.1}
-[22Jul2025 21:02:59.966] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Emojiful-Forge-1.20.1-4.2.0.jar
-[22Jul2025 21:02:59.966] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Emojiful-Forge-1.20.1-4.2.0.jar with {emojiful} mods - versions {4.2.0}
-[22Jul2025 21:02:59.967] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/entity_texture_features_forge_1.20.1-6.2.9.jar
-[22Jul2025 21:02:59.968] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file entity_texture_features_forge_1.20.1-6.2.9.jar with {entity_texture_features} mods - versions {6.2.9}
-[22Jul2025 21:02:59.968] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/entityculling-forge-1.8.2-mc1.20.1.jar
-[22Jul2025 21:02:59.969] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file entityculling-forge-1.8.2-mc1.20.1.jar with {entityculling} mods - versions {1.8.2}
-[22Jul2025 21:02:59.970] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/FarmersDelight-1.20.1-1.2.8.jar
-[22Jul2025 21:02:59.971] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file FarmersDelight-1.20.1-1.2.8.jar with {farmersdelight} mods - versions {1.20.1-1.2.8}
-[22Jul2025 21:02:59.971] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/fastasyncworldsave-1.20.1-2.4.jar
-[22Jul2025 21:02:59.972] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file fastasyncworldsave-1.20.1-2.4.jar with {fastasyncworldsave} mods - versions {1.20.1-2.4}
-[22Jul2025 21:02:59.975] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/ferritecore-6.0.1-forge.jar
-[22Jul2025 21:02:59.975] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ferritecore-6.0.1-forge.jar with {ferritecore} mods - versions {6.0.1}
-[22Jul2025 21:02:59.976] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/FpsReducer2-forge-1.20.1-2.5.1.jar
-[22Jul2025 21:02:59.976] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file FpsReducer2-forge-1.20.1-2.5.1.jar with {fpsreducer} mods - versions {1.20.1-2.5.1}
-[22Jul2025 21:02:59.977] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/friendsandfoes-forge-mc1.20.1-3.0.9.jar
-[22Jul2025 21:02:59.978] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file friendsandfoes-forge-mc1.20.1-3.0.9.jar with {friendsandfoes} mods - versions {3.0.9}
-[22Jul2025 21:02:59.979] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.3.jar
-[22Jul2025 21:02:59.979] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file geckolib-forge-1.20.1-4.7.3.jar with {geckolib} mods - versions {4.7.3}
-[22Jul2025 21:02:59.980] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/gravestone-forge-1.20.1-1.0.32.jar
-[22Jul2025 21:02:59.981] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file gravestone-forge-1.20.1-1.0.32.jar with {gravestone} mods - versions {1.20.1-1.0.32}
-[22Jul2025 21:02:59.981] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/happyghastmod-1.5.4.jar
-[22Jul2025 21:02:59.982] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file happyghastmod-1.5.4.jar with {happyghastmod} mods - versions {1.5.4}
-[22Jul2025 21:02:59.983] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Hearths v1.0.4 f12-80.mod.jar
-[22Jul2025 21:02:59.983] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Hearths v1.0.4 f12-80.mod.jar with {hearths} mods - versions {1.0.4}
-[22Jul2025 21:02:59.984] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7b.jar
-[22Jul2025 21:02:59.984] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7b.jar with {hoporp} mods - versions {1.3.7}
-[22Jul2025 21:02:59.985] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/illageandspillagerespillaged-1.2.8.jar
-[22Jul2025 21:02:59.986] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file illageandspillagerespillaged-1.2.8.jar with {illageandspillage} mods - versions {1.2.8}
-[22Jul2025 21:02:59.987] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/ImmediatelyFast-Forge-1.5.1+1.20.4.jar
-[22Jul2025 21:02:59.987] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ImmediatelyFast-Forge-1.5.1+1.20.4.jar with {immediatelyfast} mods - versions {1.5.1+1.20.4}
-[22Jul2025 21:02:59.990] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/irons_spellbooks-1.20.1-3.4.0.9.jar
-[22Jul2025 21:02:59.991] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file irons_spellbooks-1.20.1-3.4.0.9.jar with {irons_spellbooks} mods - versions {1.20.1-3.4.0.9}
-[22Jul2025 21:02:59.992] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar
-[22Jul2025 21:02:59.992] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar with {itemphysic} mods - versions {1.8.7}
-[22Jul2025 21:02:59.993] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Jade-1.20.1-Forge-11.13.1.jar
-[22Jul2025 21:02:59.993] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Jade-1.20.1-Forge-11.13.1.jar with {jade} mods - versions {11.13.1+forge}
-[22Jul2025 21:02:59.997] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Jadens-Nether-Expansion-2.3.5.jar
-[22Jul2025 21:02:59.997] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Jadens-Nether-Expansion-2.3.5.jar with {netherexp} mods - versions {2.3.5}
-[22Jul2025 21:02:59.998] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/jei-1.20.1-forge-15.20.0.112.jar
-[22Jul2025 21:02:59.999] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file jei-1.20.1-forge-15.20.0.112.jar with {jei} mods - versions {15.20.0.112}
-[22Jul2025 21:03:00.002] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/L_Enders_Cataclysm-3.09.jar
-[22Jul2025 21:03:00.003] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file L_Enders_Cataclysm-3.09.jar with {cataclysm} mods - versions {3.09}
-[22Jul2025 21:03:00.003] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/lionfishapi-2.4-Fix.jar
-[22Jul2025 21:03:00.004] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file lionfishapi-2.4-Fix.jar with {lionfishapi} mods - versions {2.4-Fix}
-[22Jul2025 21:03:00.006] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Luminous Nether V1.2.7 - Forge 1.20.1.jar
-[22Jul2025 21:03:00.006] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Luminous Nether V1.2.7 - Forge 1.20.1.jar with {luminous_nether} mods - versions {1.2.7}
-[22Jul2025 21:03:00.007] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/modernfix-forge-5.24.3+mc1.20.1.jar
-[22Jul2025 21:03:00.008] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file modernfix-forge-5.24.3+mc1.20.1.jar with {modernfix} mods - versions {5.24.3+mc1.20.1}
-[22Jul2025 21:03:00.013] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/mofus_broken_constellation-0.9.0-forge-1.20.1.jar
-[22Jul2025 21:03:00.014] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file mofus_broken_constellation-0.9.0-forge-1.20.1.jar with {mofus_better_end_} mods - versions {1.0.0}
-[22Jul2025 21:03:00.015] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/moonlight-1.20-2.14.13-forge.jar
-[22Jul2025 21:03:00.016] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file moonlight-1.20-2.14.13-forge.jar with {moonlight} mods - versions {1.20-2.14.13}
-[22Jul2025 21:03:00.016] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/morevillagers-forge-1.20.1-5.0.0.jar
-[22Jul2025 21:03:00.017] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file morevillagers-forge-1.20.1-5.0.0.jar with {morevillagers} mods - versions {5.0.0}
-[22Jul2025 21:03:00.018] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/nethersdelight-1.20.1-4.0.jar
-[22Jul2025 21:03:00.019] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file nethersdelight-1.20.1-4.0.jar with {nethersdelight} mods - versions {1.20.1-4.0}
-[22Jul2025 21:03:00.020] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
-[22Jul2025 21:03:00.020] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar with {playeranimator} mods - versions {1.0.2-rc1+1.20}
-[22Jul2025 21:03:00.029] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/PuzzlesLib-v8.1.32-1.20.1-Forge.jar
-[22Jul2025 21:03:00.030] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file PuzzlesLib-v8.1.32-1.20.1-Forge.jar with {puzzleslib} mods - versions {8.1.32}
-[22Jul2025 21:03:00.030] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/resourcefulconfig-forge-1.20.1-2.1.3.jar
-[22Jul2025 21:03:00.031] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file resourcefulconfig-forge-1.20.1-2.1.3.jar with {resourcefulconfig} mods - versions {2.1.3}
-[22Jul2025 21:03:00.031] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
-[22Jul2025 21:03:00.032] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file resourcefullib-forge-1.20.1-2.1.29.jar with {resourcefullib} mods - versions {2.1.29}
-[22Jul2025 21:03:00.033] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/rubidium-mc1.20.1-0.7.1a.jar
-[22Jul2025 21:03:00.033] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file rubidium-mc1.20.1-0.7.1a.jar with {rubidium,sodium} mods - versions {0.7.1a,0.5.3}
-[22Jul2025 21:03:00.034] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/smoothchunk-1.20.1-4.1.jar
-[22Jul2025 21:03:00.034] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file smoothchunk-1.20.1-4.1.jar with {smoothchunk} mods - versions {1.20.1-4.1}
-[22Jul2025 21:03:00.035] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/starlight-1.1.2+forge.1cda73c.jar
-[22Jul2025 21:03:00.035] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file starlight-1.1.2+forge.1cda73c.jar with {starlight} mods - versions {1.1.2+forge.1cda73c}
-[22Jul2025 21:03:00.036] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar
-[22Jul2025 21:03:00.036] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file TerraBlender-forge-1.20.1-3.0.1.10.jar with {terrablender} mods - versions {3.0.1.10}
-[22Jul2025 21:03:00.038] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Terralith_1.20.x_v2.5.4.jar
-[22Jul2025 21:03:00.038] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Terralith_1.20.x_v2.5.4.jar with {terralith} mods - versions {2.5.4}
-[22Jul2025 21:03:00.039] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/tru.e-ending-v1.1.0c.jar
-[22Jul2025 21:03:00.040] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file tru.e-ending-v1.1.0c.jar with {mr_limesplatus_ending} mods - versions {1-v1.1.0c}
-[22Jul2025 21:03:00.048] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/voicechat-forge-1.20.1-2.5.35.jar
-[22Jul2025 21:03:00.049] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file voicechat-forge-1.20.1-2.5.35.jar with {voicechat} mods - versions {1.20.1-2.5.35}
-[22Jul2025 21:03:00.049] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/waystones-forge-1.20.1-14.1.16.jar
-[22Jul2025 21:03:00.050] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file waystones-forge-1.20.1-14.1.16.jar with {waystones} mods - versions {14.1.16}
-[22Jul2025 21:03:00.051] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/wither_spawn_animation-1.5.2-forge-1.20.1.jar
-[22Jul2025 21:03:00.051] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file wither_spawn_animation-1.5.2-forge-1.20.1.jar with {wither_spawn_animation} mods - versions {1.5.2}
-[22Jul2025 21:03:00.052] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsApi-1.20-Forge-4.0.6.jar
-[22Jul2025 21:03:00.052] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsApi-1.20-Forge-4.0.6.jar with {yungsapi} mods - versions {1.20-Forge-4.0.6}
-[22Jul2025 21:03:00.053] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar
-[22Jul2025 21:03:00.053] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterDesertTemples-1.20-Forge-3.0.3.jar with {betterdeserttemples} mods - versions {1.20-Forge-3.0.3}
-[22Jul2025 21:03:00.054] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar
-[22Jul2025 21:03:00.054] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterDungeons-1.20-Forge-4.0.4.jar with {betterdungeons} mods - versions {1.20-Forge-4.0.4}
-[22Jul2025 21:03:00.055] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar
-[22Jul2025 21:03:00.055] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterEndIsland-1.20-Forge-2.0.6.jar with {betterendisland} mods - versions {1.20-Forge-2.0.6}
-[22Jul2025 21:03:00.056] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar
-[22Jul2025 21:03:00.056] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterJungleTemples-1.20-Forge-2.0.5.jar with {betterjungletemples} mods - versions {1.20-Forge-2.0.5}
-[22Jul2025 21:03:00.057] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar
-[22Jul2025 21:03:00.057] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterMineshafts-1.20-Forge-4.0.4.jar with {bettermineshafts} mods - versions {1.20-Forge-4.0.4}
-[22Jul2025 21:03:00.058] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar
-[22Jul2025 21:03:00.058] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar with {betterfortresses} mods - versions {1.20-Forge-2.0.6}
-[22Jul2025 21:03:00.059] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar
-[22Jul2025 21:03:00.059] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar with {betteroceanmonuments} mods - versions {1.20-Forge-3.0.4}
-[22Jul2025 21:03:00.060] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar
-[22Jul2025 21:03:00.060] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterStrongholds-1.20-Forge-4.0.3.jar with {betterstrongholds} mods - versions {1.20-Forge-4.0.3}
-[22Jul2025 21:03:00.061] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar
-[22Jul2025 21:03:00.061] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterWitchHuts-1.20-Forge-3.0.3.jar with {betterwitchhuts} mods - versions {1.20-Forge-3.0.3}
-[22Jul2025 21:03:00.062] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar
-[22Jul2025 21:03:00.062] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsCaveBiomes-1.20.1-Forge-2.0.5.jar with {yungscavebiomes} mods - versions {1.20.1-Forge-2.0.5}
-[22Jul2025 21:03:00.318] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file server-1.20.1-20230612.114412-srg.jar with {minecraft} mods - versions {1.20.1}
-[22Jul2025 21:03:00.362] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar
-[22Jul2025 21:03:00.362] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jul2025 21:03:00.364] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar
-[22Jul2025 21:03:00.364] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jul2025 21:03:00.365] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar
-[22Jul2025 21:03:00.365] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jul2025 21:03:00.366] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar
-[22Jul2025 21:03:00.367] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jul2025 21:03:00.531] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-universal.jar
-[22Jul2025 21:03:00.532] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file forge-1.20.1-47.3.7-universal.jar with {forge} mods - versions {47.3.7}
-[22Jul2025 21:03:00.586] [main/ERROR] [net.minecraftforge.fml.loading.UniqueModListBuilder/LOADING]: Found duplicate mods:
+[22Jul2025 21:10:03.900] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[22Jul2025 21:10:03.903] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[22Jul2025 21:10:03.925] [main/DEBUG] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Found launch services [fmlclientdev,forgeclient,minecraft,forgegametestserverdev,fmlserveruserdev,fmlclient,fmldatauserdev,forgeserverdev,forgeserveruserdev,forgeclientdev,forgeclientuserdev,forgeserver,forgedatadev,fmlserver,fmlclientuserdev,fmlserverdev,forgedatauserdev,testharness,forgegametestserveruserdev]
+[22Jul2025 21:10:03.935] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Found naming services : [srgtomcp]
+[22Jul2025 21:10:03.946] [main/DEBUG] [cpw.mods.modlauncher.LaunchPluginHandler/MODLAUNCHER]: Found launch plugins: [mixin,eventbus,slf4jfixer,object_holder_definalize,runtime_enum_extender,capability_token_subclass,accesstransformer,runtimedistcleaner]
+[22Jul2025 21:10:03.954] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Discovering transformation services
+[22Jul2025 21:10:03.959] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is /workspaces/Sagon/servidor_minecraft
+[22Jul2025 21:10:03.959] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is /workspaces/Sagon/servidor_minecraft/mods
+[22Jul2025 21:10:03.959] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is /workspaces/Sagon/servidor_minecraft/config
+[22Jul2025 21:10:03.959] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is /workspaces/Sagon/servidor_minecraft/config/fml.toml
+[22Jul2025 21:10:04.634] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found additional transformation services from discovery services: [/workspaces/Sagon/servidor_minecraft/mods/redirector-5.0.0.jar]
+[22Jul2025 21:10:04.643] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Jul2025 21:10:04.649] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
+[22Jul2025 21:10:04.653] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Found transformer services : [mixin,redirector,fml]
+[22Jul2025 21:10:04.653] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services loading
+[22Jul2025 21:10:04.653] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service mixin
+[22Jul2025 21:10:04.654] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service mixin
+[22Jul2025 21:10:04.654] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service redirector
+[22Jul2025 21:10:04.654] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service redirector
+[22Jul2025 21:10:04.654] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loading service fml
+[22Jul2025 21:10:04.655] [main/DEBUG] [net.minecraftforge.fml.loading.LauncherVersion/CORE]: Found FMLLauncher version 1.0
+[22Jul2025 21:10:04.655] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML 1.0 loading
+[22Jul2025 21:10:04.655] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found ModLauncher version : 10.0.9+10.0.9+main.dcd20f30
+[22Jul2025 21:10:04.656] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found AccessTransformer version : 8.0.4+66+master.c09db6d7
+[22Jul2025 21:10:04.656] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found EventBus version : 6.0.5+6.0.5+master.eb8e549b
+[22Jul2025 21:10:04.657] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found Runtime Dist Cleaner
+[22Jul2025 21:10:04.658] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: FML found CoreMod version : 5.1.6
+[22Jul2025 21:10:04.658] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package implementation version 7.0.1+7.0.1+master.d2b38bf6
+[22Jul2025 21:10:04.658] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Found ForgeSPI package specification 5
+[22Jul2025 21:10:04.659] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Loaded service fml
+[22Jul2025 21:10:04.659] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Configuring option handling for services
+[22Jul2025 21:10:04.665] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services initializing
+[22Jul2025 21:10:04.666] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service mixin
+[22Jul2025 21:10:04.678] [main/DEBUG] [mixin/]: MixinService [ModLauncher] was successfully booted in cpw.mods.cl.ModuleClassLoader@1e7c7811
+[22Jul2025 21:10:04.692] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Sagon/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Jul2025 21:10:04.696] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
+[22Jul2025 21:10:04.696] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[22Jul2025 21:10:04.697] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[22Jul2025 21:10:04.697] [main/DEBUG] [mixin/]: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[22Jul2025 21:10:04.698] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(ModLauncher:4f56a0a2)
+[22Jul2025 21:10:04.698] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ModLauncher Root Container(ModLauncher:4f56a0a2)
+[22Jul2025 21:10:04.700] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service mixin
+[22Jul2025 21:10:04.700] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service redirector
+[22Jul2025 21:10:04.700] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service redirector
+[22Jul2025 21:10:04.700] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initializing transformation service fml
+[22Jul2025 21:10:04.700] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Setting up basic FML game directories
+[22Jul2025 21:10:04.701] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path GAMEDIR is /workspaces/Sagon/servidor_minecraft
+[22Jul2025 21:10:04.701] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path MODSDIR is /workspaces/Sagon/servidor_minecraft/mods
+[22Jul2025 21:10:04.701] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path CONFIGDIR is /workspaces/Sagon/servidor_minecraft/config
+[22Jul2025 21:10:04.701] [main/DEBUG] [net.minecraftforge.fml.loading.FMLPaths/CORE]: Path FMLCONFIG is /workspaces/Sagon/servidor_minecraft/config/fml.toml
+[22Jul2025 21:10:04.701] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Loading configuration
+[22Jul2025 21:10:04.704] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing ModFile
+[22Jul2025 21:10:04.706] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Preparing launch handler
+[22Jul2025 21:10:04.707] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Using forgeserver as launch service
+[22Jul2025 21:10:04.720] [main/DEBUG] [net.minecraftforge.fml.loading.FMLLoader/CORE]: Received command line version data  : VersionInfo[forgeVersion=47.3.7, mcVersion=1.20.1, mcpVersion=20230612.114412, forgeGroup=net.minecraftforge]
+[22Jul2025 21:10:04.722] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Initialized transformation service fml
+[22Jul2025 21:10:04.722] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Current naming domain is 'srg'
+[22Jul2025 21:10:04.722] [main/DEBUG] [cpw.mods.modlauncher.NameMappingServiceHandler/MODLAUNCHER]: Identified name mapping providers {}
+[22Jul2025 21:10:04.723] [main/DEBUG] [cpw.mods.modlauncher.TransformationServicesHandler/MODLAUNCHER]: Transformation services begin scanning
+[22Jul2025 21:10:04.723] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service mixin
+[22Jul2025 21:10:04.723] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service mixin
+[22Jul2025 21:10:04.724] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service redirector
+[22Jul2025 21:10:04.724] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service redirector
+[22Jul2025 21:10:04.724] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: Beginning scan trigger - transformation service fml
+[22Jul2025 21:10:04.724] [main/DEBUG] [net.minecraftforge.fml.loading.FMLServiceProvider/CORE]: Initiating mod scan
+[22Jul2025 21:10:04.733] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModListHandler/CORE]: Found mod coordinates from lists: []
+[22Jul2025 21:10:04.736] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Mod Locators : (mods folder:null),(maven libs:null),(exploded directory:null),(minecraft:null),(userdev classpath:null)
+[22Jul2025 21:10:04.737] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/CORE]: Found Dependency Locators : (JarInJar:null)
+[22Jul2025 21:10:04.751] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/alexscaves-2.0.2.jar
+[22Jul2025 21:10:04.790] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file alexscaves-2.0.2.jar with {alexscaves} mods - versions {2.0.2}
+[22Jul2025 21:10:04.795] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/alexsmobs-1.22.9.jar
+[22Jul2025 21:10:04.797] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file alexsmobs-1.22.9.jar with {alexsmobs} mods - versions {1.22.9}
+[22Jul2025 21:10:04.798] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/balm-forge-1.20.1-7.3.33-all.jar
+[22Jul2025 21:10:04.799] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file balm-forge-1.20.1-7.3.33-all.jar with {balm} mods - versions {7.3.33}
+[22Jul2025 21:10:04.800] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/betterendcities-1.0.0-1.20.1.jar
+[22Jul2025 21:10:04.802] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file betterendcities-1.0.0-1.20.1.jar with {betterendcities} mods - versions {1.0.0-1.20.1}
+[22Jul2025 21:10:04.803] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/bfendcities-1.0.jar
+[22Jul2025 21:10:04.807] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file bfendcities-1.0.jar with {bfendcities} mods - versions {1.0}
+[22Jul2025 21:10:04.808] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/BOMD-Forge-1.20.1-1.1.1.jar
+[22Jul2025 21:10:04.810] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file BOMD-Forge-1.20.1-1.1.1.jar with {bosses_of_mass_destruction} mods - versions {1.1.1}
+[22Jul2025 21:10:04.810] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/caelus-forge-3.2.0+1.20.1.jar
+[22Jul2025 21:10:04.812] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file caelus-forge-3.2.0+1.20.1.jar with {caelus} mods - versions {3.2.0+1.20.1}
+[22Jul2025 21:10:04.813] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/CerbonsApi-Forge-1.20.1-1.0.0.jar
+[22Jul2025 21:10:04.814] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file CerbonsApi-Forge-1.20.1-1.0.0.jar with {cerbons_api} mods - versions {1.0.0}
+[22Jul2025 21:10:04.816] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/citadel-2.6.2-1.20.1.jar
+[22Jul2025 21:10:04.818] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file citadel-2.6.2-1.20.1.jar with {citadel} mods - versions {2.6.2}
+[22Jul2025 21:10:04.819] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/cloth-config-11.1.136-forge.jar
+[22Jul2025 21:10:04.820] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file cloth-config-11.1.136-forge.jar with {cloth_config} mods - versions {11.1.136}
+[22Jul2025 21:10:04.821] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Clumps-forge-1.20.1-12.0.0.4.jar
+[22Jul2025 21:10:04.822] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Clumps-forge-1.20.1-12.0.0.4.jar with {clumps} mods - versions {12.0.0.4}
+[22Jul2025 21:10:04.822] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/connectivity-1.20.1-7.1.jar
+[22Jul2025 21:10:04.824] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file connectivity-1.20.1-7.1.jar with {connectivity} mods - versions {1.20.1-7.1}
+[22Jul2025 21:10:04.825] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
+[22Jul2025 21:10:04.826] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file CreativeCore_FORGE_v2.12.32_mc1.20.1.jar with {creativecore} mods - versions {2.12.32}
+[22Jul2025 21:10:04.827] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar
+[22Jul2025 21:10:04.828] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file CullLessLeaves-Reforged-1.20.1-1.0.5.jar with {culllessleaves} mods - versions {1.20.1-1.0.5}
+[22Jul2025 21:10:04.829] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/cupboard-1.20.1-2.7.jar
+[22Jul2025 21:10:04.830] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file cupboard-1.20.1-2.7.jar with {cupboard} mods - versions {1.20.1-2.7}
+[22Jul2025 21:10:04.831] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+[22Jul2025 21:10:04.832] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file curios-forge-5.14.1+1.20.1.jar with {curios} mods - versions {5.14.1+1.20.1}
+[22Jul2025 21:10:04.833] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/eeeabsmobs-1.20.1-0.97-Fix.jar
+[22Jul2025 21:10:04.834] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file eeeabsmobs-1.20.1-0.97-Fix.jar with {eeeabsmobs} mods - versions {1.20.1-0.97}
+[22Jul2025 21:10:04.835] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/ElysiumAPI-1.20.1-1.1.3.jar
+[22Jul2025 21:10:04.836] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ElysiumAPI-1.20.1-1.1.3.jar with {elysium_api} mods - versions {1.1.3}
+[22Jul2025 21:10:04.837] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/embeddium-0.3.31+mc1.20.1.jar
+[22Jul2025 21:10:04.839] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file embeddium-0.3.31+mc1.20.1.jar with {embeddium,rubidium} mods - versions {0.3.31+mc1.20.1,0.7.1}
+[22Jul2025 21:10:04.840] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Emojiful-Forge-1.20.1-4.2.0.jar
+[22Jul2025 21:10:04.843] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Emojiful-Forge-1.20.1-4.2.0.jar with {emojiful} mods - versions {4.2.0}
+[22Jul2025 21:10:04.843] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/entity_texture_features_forge_1.20.1-6.2.9.jar
+[22Jul2025 21:10:04.844] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file entity_texture_features_forge_1.20.1-6.2.9.jar with {entity_texture_features} mods - versions {6.2.9}
+[22Jul2025 21:10:04.845] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/entityculling-forge-1.8.2-mc1.20.1.jar
+[22Jul2025 21:10:04.845] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file entityculling-forge-1.8.2-mc1.20.1.jar with {entityculling} mods - versions {1.8.2}
+[22Jul2025 21:10:04.847] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/FarmersDelight-1.20.1-1.2.8.jar
+[22Jul2025 21:10:04.848] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file FarmersDelight-1.20.1-1.2.8.jar with {farmersdelight} mods - versions {1.20.1-1.2.8}
+[22Jul2025 21:10:04.849] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/fastasyncworldsave-1.20.1-2.4.jar
+[22Jul2025 21:10:04.850] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file fastasyncworldsave-1.20.1-2.4.jar with {fastasyncworldsave} mods - versions {1.20.1-2.4}
+[22Jul2025 21:10:04.854] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/ferritecore-6.0.1-forge.jar
+[22Jul2025 21:10:04.855] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ferritecore-6.0.1-forge.jar with {ferritecore} mods - versions {6.0.1}
+[22Jul2025 21:10:04.855] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/FpsReducer2-forge-1.20.1-2.5.1.jar
+[22Jul2025 21:10:04.856] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file FpsReducer2-forge-1.20.1-2.5.1.jar with {fpsreducer} mods - versions {1.20.1-2.5.1}
+[22Jul2025 21:10:04.858] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/friendsandfoes-forge-mc1.20.1-3.0.9.jar
+[22Jul2025 21:10:04.858] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file friendsandfoes-forge-mc1.20.1-3.0.9.jar with {friendsandfoes} mods - versions {3.0.9}
+[22Jul2025 21:10:04.859] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.3.jar
+[22Jul2025 21:10:04.860] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file geckolib-forge-1.20.1-4.7.3.jar with {geckolib} mods - versions {4.7.3}
+[22Jul2025 21:10:04.860] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/gravestone-forge-1.20.1-1.0.32.jar
+[22Jul2025 21:10:04.861] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file gravestone-forge-1.20.1-1.0.32.jar with {gravestone} mods - versions {1.20.1-1.0.32}
+[22Jul2025 21:10:04.862] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/happyghastmod-1.5.4.jar
+[22Jul2025 21:10:04.863] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file happyghastmod-1.5.4.jar with {happyghastmod} mods - versions {1.5.4}
+[22Jul2025 21:10:04.863] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Hearths v1.0.4 f12-80.mod.jar
+[22Jul2025 21:10:04.867] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Hearths v1.0.4 f12-80.mod.jar with {hearths} mods - versions {1.0.4}
+[22Jul2025 21:10:04.869] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7b.jar
+[22Jul2025 21:10:04.870] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7b.jar with {hoporp} mods - versions {1.3.7}
+[22Jul2025 21:10:04.876] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/illageandspillagerespillaged-1.2.8.jar
+[22Jul2025 21:10:04.879] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file illageandspillagerespillaged-1.2.8.jar with {illageandspillage} mods - versions {1.2.8}
+[22Jul2025 21:10:04.879] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/ImmediatelyFast-Forge-1.5.1+1.20.4.jar
+[22Jul2025 21:10:04.880] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ImmediatelyFast-Forge-1.5.1+1.20.4.jar with {immediatelyfast} mods - versions {1.5.1+1.20.4}
+[22Jul2025 21:10:04.883] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/irons_spellbooks-1.20.1-3.4.0.9.jar
+[22Jul2025 21:10:04.884] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file irons_spellbooks-1.20.1-3.4.0.9.jar with {irons_spellbooks} mods - versions {1.20.1-3.4.0.9}
+[22Jul2025 21:10:04.885] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar
+[22Jul2025 21:10:04.885] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar with {itemphysic} mods - versions {1.8.7}
+[22Jul2025 21:10:04.886] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Jade-1.20.1-Forge-11.13.1.jar
+[22Jul2025 21:10:04.887] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Jade-1.20.1-Forge-11.13.1.jar with {jade} mods - versions {11.13.1+forge}
+[22Jul2025 21:10:04.890] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Jadens-Nether-Expansion-2.3.5.jar
+[22Jul2025 21:10:04.890] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Jadens-Nether-Expansion-2.3.5.jar with {netherexp} mods - versions {2.3.5}
+[22Jul2025 21:10:04.891] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/jei-1.20.1-forge-15.20.0.112.jar
+[22Jul2025 21:10:04.892] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file jei-1.20.1-forge-15.20.0.112.jar with {jei} mods - versions {15.20.0.112}
+[22Jul2025 21:10:04.895] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/L_Enders_Cataclysm-3.09.jar
+[22Jul2025 21:10:04.895] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file L_Enders_Cataclysm-3.09.jar with {cataclysm} mods - versions {3.09}
+[22Jul2025 21:10:04.896] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/lionfishapi-2.4-Fix.jar
+[22Jul2025 21:10:04.896] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file lionfishapi-2.4-Fix.jar with {lionfishapi} mods - versions {2.4-Fix}
+[22Jul2025 21:10:04.898] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Luminous Nether V1.2.7 - Forge 1.20.1.jar
+[22Jul2025 21:10:04.898] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Luminous Nether V1.2.7 - Forge 1.20.1.jar with {luminous_nether} mods - versions {1.2.7}
+[22Jul2025 21:10:04.899] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/modernfix-forge-5.24.3+mc1.20.1.jar
+[22Jul2025 21:10:04.900] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file modernfix-forge-5.24.3+mc1.20.1.jar with {modernfix} mods - versions {5.24.3+mc1.20.1}
+[22Jul2025 21:10:04.903] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/mofus_broken_constellation-0.9.0-forge-1.20.1.jar
+[22Jul2025 21:10:04.904] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file mofus_broken_constellation-0.9.0-forge-1.20.1.jar with {mofus_better_end_} mods - versions {1.0.0}
+[22Jul2025 21:10:04.904] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/moonlight-1.20-2.14.13-forge.jar
+[22Jul2025 21:10:04.905] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file moonlight-1.20-2.14.13-forge.jar with {moonlight} mods - versions {1.20-2.14.13}
+[22Jul2025 21:10:04.905] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/morevillagers-forge-1.20.1-5.0.0.jar
+[22Jul2025 21:10:04.906] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file morevillagers-forge-1.20.1-5.0.0.jar with {morevillagers} mods - versions {5.0.0}
+[22Jul2025 21:10:04.907] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/nethersdelight-1.20.1-4.0.jar
+[22Jul2025 21:10:04.907] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file nethersdelight-1.20.1-4.0.jar with {nethersdelight} mods - versions {1.20.1-4.0}
+[22Jul2025 21:10:04.908] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[22Jul2025 21:10:04.909] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar with {playeranimator} mods - versions {1.0.2-rc1+1.20}
+[22Jul2025 21:10:04.920] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/PuzzlesLib-v8.1.32-1.20.1-Forge.jar
+[22Jul2025 21:10:04.921] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file PuzzlesLib-v8.1.32-1.20.1-Forge.jar with {puzzleslib} mods - versions {8.1.32}
+[22Jul2025 21:10:04.922] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/resourcefulconfig-forge-1.20.1-2.1.3.jar
+[22Jul2025 21:10:04.922] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file resourcefulconfig-forge-1.20.1-2.1.3.jar with {resourcefulconfig} mods - versions {2.1.3}
+[22Jul2025 21:10:04.923] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[22Jul2025 21:10:04.923] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file resourcefullib-forge-1.20.1-2.1.29.jar with {resourcefullib} mods - versions {2.1.29}
+[22Jul2025 21:10:04.924] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/rubidium-mc1.20.1-0.7.1a.jar
+[22Jul2025 21:10:04.925] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file rubidium-mc1.20.1-0.7.1a.jar with {rubidium,sodium} mods - versions {0.7.1a,0.5.3}
+[22Jul2025 21:10:04.926] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/smoothchunk-1.20.1-4.1.jar
+[22Jul2025 21:10:04.926] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file smoothchunk-1.20.1-4.1.jar with {smoothchunk} mods - versions {1.20.1-4.1}
+[22Jul2025 21:10:04.927] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/starlight-1.1.2+forge.1cda73c.jar
+[22Jul2025 21:10:04.928] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file starlight-1.1.2+forge.1cda73c.jar with {starlight} mods - versions {1.1.2+forge.1cda73c}
+[22Jul2025 21:10:04.928] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar
+[22Jul2025 21:10:04.929] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file TerraBlender-forge-1.20.1-3.0.1.10.jar with {terrablender} mods - versions {3.0.1.10}
+[22Jul2025 21:10:04.931] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/Terralith_1.20.x_v2.5.4.jar
+[22Jul2025 21:10:04.932] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file Terralith_1.20.x_v2.5.4.jar with {terralith} mods - versions {2.5.4}
+[22Jul2025 21:10:04.932] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/tru.e-ending-v1.1.0c.jar
+[22Jul2025 21:10:04.933] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file tru.e-ending-v1.1.0c.jar with {mr_limesplatus_ending} mods - versions {1-v1.1.0c}
+[22Jul2025 21:10:04.937] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/voicechat-forge-1.20.1-2.5.35.jar
+[22Jul2025 21:10:04.938] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file voicechat-forge-1.20.1-2.5.35.jar with {voicechat} mods - versions {1.20.1-2.5.35}
+[22Jul2025 21:10:04.939] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/waystones-forge-1.20.1-14.1.16.jar
+[22Jul2025 21:10:04.939] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file waystones-forge-1.20.1-14.1.16.jar with {waystones} mods - versions {14.1.16}
+[22Jul2025 21:10:04.940] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/wither_spawn_animation-1.5.2-forge-1.20.1.jar
+[22Jul2025 21:10:04.941] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file wither_spawn_animation-1.5.2-forge-1.20.1.jar with {wither_spawn_animation} mods - versions {1.5.2}
+[22Jul2025 21:10:04.941] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsApi-1.20-Forge-4.0.6.jar
+[22Jul2025 21:10:04.942] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsApi-1.20-Forge-4.0.6.jar with {yungsapi} mods - versions {1.20-Forge-4.0.6}
+[22Jul2025 21:10:04.943] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar
+[22Jul2025 21:10:04.944] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterDesertTemples-1.20-Forge-3.0.3.jar with {betterdeserttemples} mods - versions {1.20-Forge-3.0.3}
+[22Jul2025 21:10:04.944] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar
+[22Jul2025 21:10:04.945] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterDungeons-1.20-Forge-4.0.4.jar with {betterdungeons} mods - versions {1.20-Forge-4.0.4}
+[22Jul2025 21:10:04.945] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar
+[22Jul2025 21:10:04.946] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterEndIsland-1.20-Forge-2.0.6.jar with {betterendisland} mods - versions {1.20-Forge-2.0.6}
+[22Jul2025 21:10:04.946] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar
+[22Jul2025 21:10:04.947] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterJungleTemples-1.20-Forge-2.0.5.jar with {betterjungletemples} mods - versions {1.20-Forge-2.0.5}
+[22Jul2025 21:10:04.948] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar
+[22Jul2025 21:10:04.948] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterMineshafts-1.20-Forge-4.0.4.jar with {bettermineshafts} mods - versions {1.20-Forge-4.0.4}
+[22Jul2025 21:10:04.949] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar
+[22Jul2025 21:10:04.949] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar with {betterfortresses} mods - versions {1.20-Forge-2.0.6}
+[22Jul2025 21:10:04.950] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar
+[22Jul2025 21:10:04.950] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar with {betteroceanmonuments} mods - versions {1.20-Forge-3.0.4}
+[22Jul2025 21:10:04.951] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar
+[22Jul2025 21:10:04.952] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterStrongholds-1.20-Forge-4.0.3.jar with {betterstrongholds} mods - versions {1.20-Forge-4.0.3}
+[22Jul2025 21:10:04.952] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar
+[22Jul2025 21:10:04.953] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsBetterWitchHuts-1.20-Forge-3.0.3.jar with {betterwitchhuts} mods - versions {1.20-Forge-3.0.3}
+[22Jul2025 21:10:04.954] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/mods/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar
+[22Jul2025 21:10:04.955] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file YungsCaveBiomes-1.20.1-Forge-2.0.5.jar with {yungscavebiomes} mods - versions {1.20.1-Forge-2.0.5}
+[22Jul2025 21:10:05.036] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file server-1.20.1-20230612.114412-srg.jar with {minecraft} mods - versions {1.20.1}
+[22Jul2025 21:10:05.038] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar
+[22Jul2025 21:10:05.039] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jul2025 21:10:05.040] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar
+[22Jul2025 21:10:05.040] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jul2025 21:10:05.041] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar
+[22Jul2025 21:10:05.042] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jul2025 21:10:05.043] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar
+[22Jul2025 21:10:05.043] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jul2025 21:10:05.103] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Considering mod file candidate /workspaces/Sagon/servidor_minecraft/libraries/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-universal.jar
+[22Jul2025 21:10:05.105] [main/DEBUG] [net.minecraftforge.fml.loading.moddiscovery.ModFileInfo/LOADING]: Found valid mod file forge-1.20.1-47.3.7-universal.jar with {forge} mods - versions {47.3.7}
+[22Jul2025 21:10:05.111] [main/ERROR] [net.minecraftforge.fml.loading.UniqueModListBuilder/LOADING]: Found duplicate mods:
 	Mod ID: 'rubidium' from mod files: rubidium-mc1.20.1-0.7.1a.jar, embeddium-0.3.31+mc1.20.1.jar
-[22Jul2025 21:03:00.586] [main/ERROR] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Failed to build unique mod list after mod discovery.
+[22Jul2025 21:10:05.113] [main/ERROR] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Failed to build unique mod list after mod discovery.
 net.minecraftforge.fml.loading.EarlyLoadingException: Duplicate mods found
 	at net.minecraftforge.fml.loading.UniqueModListBuilder.buildUniqueList(UniqueModListBuilder.java:87) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
 	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.discoverMods(ModDiscoverer.java:106) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
@@ -245,7 +245,7 @@ net.minecraftforge.fml.loading.EarlyLoadingException: Duplicate mods found
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Jul2025 21:03:00.593] [main/ERROR] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Mod Discovery failed. Skipping dependency discovery.
-[22Jul2025 21:03:00.595] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service fml
-[22Jul2025 21:03:00.598] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 0 language providers
-[22Jul2025 21:03:00.602] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/]: Configured system mods: [minecraft]
+[22Jul2025 21:10:05.127] [main/ERROR] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Mod Discovery failed. Skipping dependency discovery.
+[22Jul2025 21:10:05.129] [main/DEBUG] [cpw.mods.modlauncher.TransformationServiceDecorator/MODLAUNCHER]: End scan trigger - transformation service fml
+[22Jul2025 21:10:05.134] [main/DEBUG] [net.minecraftforge.fml.loading.LanguageLoadingProvider/CORE]: Found 0 language providers
+[22Jul2025 21:10:05.139] [main/DEBUG] [net.minecraftforge.fml.loading.ModSorter/]: Configured system mods: [minecraft]
