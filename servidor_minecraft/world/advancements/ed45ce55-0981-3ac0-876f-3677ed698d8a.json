@@ -1,0 +1,1473 @@
+{
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-07-23 02:04:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-23 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-23 02:04:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-23 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-07-23 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-23 02:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-23 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/spatula": {
+    "criteria": {
+      "has_leather": "2025-07-23 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-23 02:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-23 01:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_toilet": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-23 01:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-23 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-23 02:04:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 02:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-23 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_bath": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-23 02:04:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-23 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-23 02:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-23 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-23 01:56:39 +0000",
+      "minecraft:zombie": "2025-07-23 01:57:06 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_basin": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_basin": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-23 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_bath": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 02:04:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_drawer": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-07-23 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-23 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_toilet": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_leather": "2025-07-23 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/workbench": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-23 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-23 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-23 01:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-23 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-23 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-07-23 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-23 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-23 01:53:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-07-23 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-07-23 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 02:04:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-07-23 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-07-23 02:04:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-23 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-07-23 01:52:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_leather": "2025-07-23 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-23 02:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-23 02:06:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-23 01:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/frying_pan": {
+    "criteria": {
+      "has_leather": "2025-07-23 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 02:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-23 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-23 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-23 02:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-23 01:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-23 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-07-23 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-23 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 02:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-23 01:52:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_grill": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-23 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/post_box": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-23 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-23 01:56:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-23 01:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-23 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-23 01:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-23 02:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-07-23 01:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-23 01:56:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-07-23 02:09:04 +0000",
+      "minecraft:river": "2025-07-23 01:58:07 +0000",
+      "minecraft:swamp": "2025-07-23 02:04:53 +0000",
+      "minecraft:forest": "2025-07-23 01:47:55 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-23 02:04:05 +0000",
+      "minecraft:plains": "2025-07-23 01:50:23 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-23 02:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-23 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-23 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "mutton": "2025-07-23 02:07:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
+    "criteria": {
+      "has_colouring_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
+    "criteria": {
+      "has_blue_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-07-23 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-23 01:49:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-23 02:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-23 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-23 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-23 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-23 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-23 02:02:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-07-23 02:04:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_planks": "2025-07-23 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
