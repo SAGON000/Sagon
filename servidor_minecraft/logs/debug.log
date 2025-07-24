@@ -5158,3 +5158,90 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Jul2025 00:05:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> asi nomas
 [24Jul2025 00:05:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [It Bites]
 [24Jul2025 00:05:53.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[24Jul2025 00:06:27.058] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mofus_better_end_:broken_constellation
+[24Jul2025 00:06:48.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 00:06:48.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 00:06:58.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> si
+[24Jul2025 00:07:30.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Skelewag
+[24Jul2025 00:07:30.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Skelewag
+[24Jul2025 00:07:31.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[24Jul2025 00:07:37.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> xd
+[24Jul2025 00:07:54.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> x
+[24Jul2025 00:07:55.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> d
+[24Jul2025 00:08:54.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> aca
+[24Jul2025 00:09:05.877] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-53, y=4, z=-448}
+[24Jul2025 00:09:14.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[24Jul2025 00:09:14.940] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.elysium_api.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Jul2025 00:09:14.940] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Jul2025 00:09:16.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Acquire Hardware]
+[24Jul2025 00:09:23.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[24Jul2025 00:09:24.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[24Jul2025 00:09:24.258] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Jul2025 00:09:25.962] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[24Jul2025 00:09:25.967] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[24Jul2025 00:10:01.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> tengo un mapa
+[24Jul2025 00:10:07.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> uf
+[24Jul2025 00:10:27.217] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[24Jul2025 00:10:32.135] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=11, y=-34, z=-665}
+[24Jul2025 00:10:32.135] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=15, y=-34, z=-665}
+[24Jul2025 00:10:32.135] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=15, y=-33, z=-661}
+[24Jul2025 00:10:32.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> MEG:eagle:
+[24Jul2025 00:10:34.401] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=20, y=-33, z=-674}
+[24Jul2025 00:10:34.402] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=20, y=-33, z=-680}
+[24Jul2025 00:10:34.405] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=31, y=-34, z=-674}
+[24Jul2025 00:10:34.470] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=36, y=-34, z=-674}
+[24Jul2025 00:10:34.471] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=36, y=-34, z=-680}
+[24Jul2025 00:10:35.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[24Jul2025 00:10:36.195] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=31, y=-33, z=-698}
+[24Jul2025 00:10:36.195] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=31, y=-33, z=-692}
+[24Jul2025 00:10:37.862] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=61, y=-16, z=-717}
+[24Jul2025 00:10:37.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> xd
+[24Jul2025 00:10:38.741] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[24Jul2025 00:10:41.435] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=82, y=-21, z=-730}
+[24Jul2025 00:10:43.306] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=96, y=-21, z=-740}
+[24Jul2025 00:10:43.306] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=96, y=-21, z=-744}
+[24Jul2025 00:10:43.448] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=72, y=-21, z=-740}
+[24Jul2025 00:10:43.448] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=72, y=-21, z=-744}
+[24Jul2025 00:10:43.541] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=14, y=-31, z=-739}
+[24Jul2025 00:10:44.970] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[24Jul2025 00:10:45.705] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-21, z=-766}
+[24Jul2025 00:10:45.705] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-12, y=-21, z=-766}
+[24Jul2025 00:10:45.705] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-21, z=-761}
+[24Jul2025 00:10:45.929] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=42, y=-26, z=-767}
+[24Jul2025 00:10:45.932] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=36, y=-21, z=-753}
+[24Jul2025 00:10:45.972] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=82, y=-21, z=-754}
+[24Jul2025 00:10:45.973] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=86, y=-21, z=-754}
+[24Jul2025 00:10:48.391] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_07 is being run through DFU (hash 767a5d86c479c452da0739030ae366937978b46a338baea6f743b3d64d68803a), this will cause launch time delays
+[24Jul2025 00:10:48.676] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_02 is being run through DFU (hash e1c2b300e5ab313dab6165888e7bc6d970c0852c23c583bfd48c547d207a3029), this will cause launch time delays
+[24Jul2025 00:10:49.676] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=83, y=-19, z=-773}
+[24Jul2025 00:10:51.197] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=62, y=-24, z=-790}
+[24Jul2025 00:11:04.103] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[24Jul2025 00:11:11.070] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[24Jul2025 00:11:17.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> aguantame
+[24Jul2025 00:11:23.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> me quedo un cahito afk
+[24Jul2025 00:11:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> ok
+[24Jul2025 00:11:26.063] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[24Jul2025 00:11:48.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 00:11:48.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 00:11:52.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Jul2025 00:12:39.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Monster Hunter]
+[24Jul2025 00:13:02.899] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[24Jul2025 00:13:28.371] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_brown_mushroom_stem_01
+[24Jul2025 00:13:29.640] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[24Jul2025 00:13:30.624] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_18 is being run through DFU (hash 739fcd0cca44ad88cfc408539225284c6636a807c5a58b4f0ab0a5869a7faf63), this will cause launch time delays
+[24Jul2025 00:13:32.288] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:mushroom_grave/mushroom_grave_02 is being run through DFU (hash 6c98c195438c0b2323313d3570c3dd65a6e6b8954d97180f326060e8061c0164), this will cause launch time delays
+[24Jul2025 00:13:32.456] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[24Jul2025 00:13:34.593] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[24Jul2025 00:13:37.064] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in graveyard:past
+[24Jul2025 00:13:56.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> tierra a la vista
+[24Jul2025 00:14:03.402] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[24Jul2025 00:14:04.396] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:medium_graveyard/medium_graveyard_01 is being run through DFU (hash aae954b46b33c18292a82912817d49d1d3280d65b48008cb8aaf2a26e70c9477), this will cause launch time delays
+[24Jul2025 00:14:05.885] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[24Jul2025 00:14:28.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> eh vuelto
+[24Jul2025 00:14:42.955] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[24Jul2025 00:14:44.740] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[24Jul2025 00:14:49.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> :peped::peped::peped::peped::peped::peped::peped::peped::peped::peped::peped::peped::peped::peped::peped:
+[24Jul2025 00:15:01.410] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_03 is being run through DFU (hash 13a48e6981592d1660d9d851e014e787e7ab9ed039c9a7c49485474a8dfff88a), this will cause launch time delays
+[24Jul2025 00:15:02.420] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[24Jul2025 00:15:09.898] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_08 is being run through DFU (hash 03673c988a4e037dc1f4cb5fe7f9441c58b69fceece6acdffe4ecee00247d5ff), this will cause launch time delays
+[24Jul2025 00:16:04.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd

@@ -20,3 +20,57 @@
 [24Jul2025 00:05:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> asi nomas
 [24Jul2025 00:05:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [It Bites]
 [24Jul2025 00:05:53.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[24Jul2025 00:06:58.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> si
+[24Jul2025 00:07:30.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Skelewag
+[24Jul2025 00:07:30.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Skelewag
+[24Jul2025 00:07:31.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[24Jul2025 00:07:37.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> xd
+[24Jul2025 00:07:54.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> x
+[24Jul2025 00:07:55.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> d
+[24Jul2025 00:08:54.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> aca
+[24Jul2025 00:09:05.877] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-53, y=4, z=-448}
+[24Jul2025 00:09:14.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[24Jul2025 00:09:16.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Acquire Hardware]
+[24Jul2025 00:09:23.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[24Jul2025 00:09:24.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[24Jul2025 00:10:01.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> tengo un mapa
+[24Jul2025 00:10:07.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> uf
+[24Jul2025 00:10:27.217] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[24Jul2025 00:10:32.135] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=11, y=-34, z=-665}
+[24Jul2025 00:10:32.135] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=15, y=-34, z=-665}
+[24Jul2025 00:10:32.135] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=15, y=-33, z=-661}
+[24Jul2025 00:10:32.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> MEG:eagle:
+[24Jul2025 00:10:34.401] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=20, y=-33, z=-674}
+[24Jul2025 00:10:34.402] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=20, y=-33, z=-680}
+[24Jul2025 00:10:34.405] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=31, y=-34, z=-674}
+[24Jul2025 00:10:34.470] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=36, y=-34, z=-674}
+[24Jul2025 00:10:34.471] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=36, y=-34, z=-680}
+[24Jul2025 00:10:35.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[24Jul2025 00:10:36.195] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=31, y=-33, z=-698}
+[24Jul2025 00:10:36.195] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=31, y=-33, z=-692}
+[24Jul2025 00:10:37.862] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=61, y=-16, z=-717}
+[24Jul2025 00:10:37.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> xd
+[24Jul2025 00:10:38.741] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[24Jul2025 00:10:41.435] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=82, y=-21, z=-730}
+[24Jul2025 00:10:43.306] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=96, y=-21, z=-740}
+[24Jul2025 00:10:43.306] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=96, y=-21, z=-744}
+[24Jul2025 00:10:43.448] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=72, y=-21, z=-740}
+[24Jul2025 00:10:43.448] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=72, y=-21, z=-744}
+[24Jul2025 00:10:43.541] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=14, y=-31, z=-739}
+[24Jul2025 00:10:45.705] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-21, z=-766}
+[24Jul2025 00:10:45.705] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-12, y=-21, z=-766}
+[24Jul2025 00:10:45.705] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-21, z=-761}
+[24Jul2025 00:10:45.929] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=42, y=-26, z=-767}
+[24Jul2025 00:10:45.932] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=36, y=-21, z=-753}
+[24Jul2025 00:10:45.972] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=82, y=-21, z=-754}
+[24Jul2025 00:10:45.973] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=86, y=-21, z=-754}
+[24Jul2025 00:10:49.676] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=83, y=-19, z=-773}
+[24Jul2025 00:10:51.197] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=62, y=-24, z=-790}
+[24Jul2025 00:11:17.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> aguantame
+[24Jul2025 00:11:23.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> me quedo un cahito afk
+[24Jul2025 00:11:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> ok
+[24Jul2025 00:12:39.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Monster Hunter]
+[24Jul2025 00:13:56.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> tierra a la vista
+[24Jul2025 00:14:28.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> eh vuelto
+[24Jul2025 00:14:49.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> :peped::peped::peped::peped::peped::peped::peped::peped::peped::peped::peped::peped::peped::peped::peped:
+[24Jul2025 00:16:04.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
