@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-24 00:19:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-24 00:00:50 +0000"
@@ -158,6 +164,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-24 00:09:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-24 00:19:46 +0000"
     },
     "done": true
   },
@@ -230,6 +242,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_fridge": {
     "criteria": {
       "has_iron_ingot": "2025-07-24 00:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-07-24 00:16:28 +0000"
     },
     "done": true
   },
@@ -347,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-24 00:11:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_iron_nugget": "2025-07-24 00:09:21 +0000"
@@ -368,6 +392,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-24 00:09:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-07-24 00:21:10 +0000"
     },
     "done": true
   },
@@ -425,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-24 00:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-24 00:00:58 +0000"
@@ -464,6 +500,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_toaster": {
     "criteria": {
       "has_iron_ingot": "2025-07-24 00:09:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-24 00:19:46 +0000"
     },
     "done": true
   },
@@ -545,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-24 00:11:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2025-07-23 23:59:08 +0000"
@@ -614,6 +662,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-24 00:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-24 00:19:27 +0000"
     },
     "done": true
   },
@@ -706,6 +760,13 @@
       "has_planks": "2025-07-23 23:59:08 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-24 00:15:46 +0000",
+      "minecraft:drowned": "2025-07-24 00:12:39 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
@@ -815,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-24 00:19:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-07-24 00:09:16 +0000"
@@ -896,6 +963,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-23 23:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-24 00:19:27 +0000"
     },
     "done": true
   },
@@ -1133,6 +1206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-24 00:20:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_planks": "2025-07-23 23:59:08 +0000"
@@ -1286,6 +1365,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-23 23:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-24 00:19:46 +0000"
     },
     "done": true
   },
@@ -1565,6 +1650,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-24 00:20:50 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-07-24 00:09:16 +0000"
@@ -1640,6 +1731,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-23 23:59:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-24 00:19:46 +0000"
     },
     "done": true
   },
@@ -1751,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-24 00:19:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-07-24 00:09:16 +0000"
@@ -1841,6 +1944,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-07-24 00:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-07-24 00:12:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-23 23:59:08 +0000"
@@ -1850,6 +1965,12 @@
   "nethersdelight:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2025-07-24 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-24 00:18:32 +0000"
     },
     "done": true
   },
@@ -1897,13 +2018,20 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "mutton": "2025-07-24 00:04:52 +0000"
+      "mutton": "2025-07-24 00:04:52 +0000",
+      "melon_slice": "2025-07-24 00:22:08 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-07-23 23:59:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-24 00:18:32 +0000"
     },
     "done": true
   },
@@ -1997,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-24 00:19:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-24 00:00:50 +0000"
@@ -2006,6 +2140,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-24 00:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-24 00:18:32 +0000"
     },
     "done": true
   },
