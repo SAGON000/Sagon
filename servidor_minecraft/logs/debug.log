@@ -6106,3 +6106,63 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jul2025 22:32:26.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> MEG
 [25Jul2025 22:32:49.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jul2025 22:32:49.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 22:33:18.821] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mofus_better_end_:broken_constellation
+[25Jul2025 22:33:21.716] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[25Jul2025 22:33:42.397] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_07
+[25Jul2025 22:33:42.935] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[25Jul2025 22:34:21.163] [Worker-Main-3/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_woodworker is being run through DFU (hash 235d2abd833a48cdbddf7c70caf7e502ddd4b400b62935aaed73434fd57f9f29), this will cause launch time delays
+[25Jul2025 22:34:21.308] [Worker-Main-3/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_oceanographer is being run through DFU (hash 86f82696fa2d18f5ac12ab1b1ef82357304b4201a1e1d3ed90a2db9380022d63), this will cause launch time delays
+[25Jul2025 22:34:21.320] [Worker-Main-3/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_florist is being run through DFU (hash 264e3636b6e8914adced417a87cf7b0a4f4b4221c66256fe5089d7e856f460e2), this will cause launch time delays
+[25Jul2025 22:34:21.328] [Worker-Main-3/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_hunter is being run through DFU (hash 86e27179b2d15170c231881a235e1996000ee66eae2847869e56de3aeb7850de), this will cause launch time delays
+[25Jul2025 22:34:21.336] [Worker-Main-3/DEBUG] [ModernFix/]: Structure morevillagers:village/snowy/snowy_engineer is being run through DFU (hash 20bece5e4b609f61d0c3f70c6a34fe93f574aaae6fa81f74eac3b251b859fda7), this will cause launch time delays
+[25Jul2025 22:34:21.553] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[25Jul2025 22:34:22.656] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[25Jul2025 22:34:23.366] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[25Jul2025 22:34:52.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was blown up by Creeper
+[25Jul2025 22:35:07.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was blown up by Creeper
+[25Jul2025 22:35:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xedxd
+[25Jul2025 22:35:26.237] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[25Jul2025 22:35:39.779] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_08 is being run through DFU (hash 95bf1e26c07c6ede910d03f28a3906e01d277b5197f836be3dc4f7fdf8515621), this will cause launch time delays
+[25Jul2025 22:35:58.431] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_10 is being run through DFU (hash 60bba015de588cb33cd8f748d356e20651f83d9eb54ad236a7fea784947fae01), this will cause launch time delays
+[25Jul2025 22:36:01.853] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[25Jul2025 22:36:13.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> por aca
+[25Jul2025 22:36:13.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25Jul2025 22:36:17.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> bue
+[25Jul2025 22:36:17.819] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[25Jul2025 22:36:21.676] [Worker-Main-19/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:lich_tower/top is being run through DFU (hash a51672029c56ba4bbc503d26165f792c6e7f7d4477904d41e6af79a5ec21d66a), this will cause launch time delays
+[25Jul2025 22:36:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> ya cabaste xd
+[25Jul2025 22:36:31.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Diamonds!]
+[25Jul2025 22:36:34.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> ala
+[25Jul2025 22:36:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Isn't It Iron Pick]
+[25Jul2025 22:37:21.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was pierced by Necromancer's icicle
+[25Jul2025 22:37:49.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 22:37:49.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 22:38:01.835] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[25Jul2025 22:39:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was mauled by Necromancer's undead
+[25Jul2025 22:39:02.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 moved wrongly!
+[25Jul2025 22:39:13.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Iron, but dark]
+[25Jul2025 22:39:16.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> ala
+[25Jul2025 22:39:24.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Taking from the Dead]
+[25Jul2025 22:39:33.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[25Jul2025 22:39:43.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> me asuste xd
+[25Jul2025 22:40:08.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Skeleton
+[25Jul2025 22:40:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was blown up by Skeleton Creeper
+[25Jul2025 22:40:44.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Skeleton
+[25Jul2025 22:40:49.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was blown up by Creeper
+[25Jul2025 22:40:59.446] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_01
+[25Jul2025 22:41:05.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Skeleton
+[25Jul2025 22:41:38.393] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=14, y=-38, z=2662}
+[25Jul2025 22:41:40.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[25Jul2025 22:42:01.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 tried to swim in lava
+[25Jul2025 22:42:08.797] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[25Jul2025 22:42:20.622] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:portal11 is being run through DFU (hash b86b9ba9a846ae5f89ca7248e8237597025dc39cc7e0bb3c8b50d3496d0675c3), this will cause launch time delays
+[25Jul2025 22:42:24.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[25Jul2025 22:42:34.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> agus
+[25Jul2025 22:42:38.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> y la cama
+[25Jul2025 22:42:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> la explotaron
+[25Jul2025 22:42:49.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 22:42:49.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 22:42:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to YOUNGDINO07]
+[25Jul2025 22:43:03.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[25Jul2025 22:43:12.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> ns
+[25Jul2025 22:43:16.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> donde esta

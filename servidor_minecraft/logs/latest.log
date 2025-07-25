@@ -1366,3 +1366,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jul2025 22:32:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautiABC> dormi
 [25Jul2025 22:32:15.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> :catjam:
 [25Jul2025 22:32:26.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> MEG
+[25Jul2025 22:34:21.553] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[25Jul2025 22:34:22.656] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[25Jul2025 22:34:23.366] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[25Jul2025 22:34:52.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was blown up by Creeper
+[25Jul2025 22:35:07.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was blown up by Creeper
+[25Jul2025 22:35:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xedxd
+[25Jul2025 22:35:26.237] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[25Jul2025 22:36:13.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> por aca
+[25Jul2025 22:36:17.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> bue
+[25Jul2025 22:36:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> ya cabaste xd
+[25Jul2025 22:36:31.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Diamonds!]
+[25Jul2025 22:36:34.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> ala
+[25Jul2025 22:36:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Isn't It Iron Pick]
+[25Jul2025 22:37:21.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was pierced by Necromancer's icicle
+[25Jul2025 22:39:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was mauled by Necromancer's undead
+[25Jul2025 22:39:02.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 moved wrongly!
+[25Jul2025 22:39:13.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Iron, but dark]
+[25Jul2025 22:39:16.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> ala
+[25Jul2025 22:39:24.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Taking from the Dead]
+[25Jul2025 22:39:33.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[25Jul2025 22:39:43.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> me asuste xd
+[25Jul2025 22:40:08.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Skeleton
+[25Jul2025 22:40:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was blown up by Skeleton Creeper
+[25Jul2025 22:40:44.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Skeleton
+[25Jul2025 22:40:49.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was blown up by Creeper
+[25Jul2025 22:41:05.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Skeleton
+[25Jul2025 22:41:38.393] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=14, y=-38, z=2662}
+[25Jul2025 22:41:40.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[25Jul2025 22:42:01.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 tried to swim in lava
+[25Jul2025 22:42:08.797] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[25Jul2025 22:42:24.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[25Jul2025 22:42:34.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> agus
+[25Jul2025 22:42:38.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> y la cama
+[25Jul2025 22:42:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> la explotaron
+[25Jul2025 22:42:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to YOUNGDINO07]
+[25Jul2025 22:43:03.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[25Jul2025 22:43:12.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> ns
+[25Jul2025 22:43:16.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> donde esta
