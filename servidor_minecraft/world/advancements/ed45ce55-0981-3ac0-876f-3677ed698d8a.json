@@ -61,6 +61,7 @@
       "minecraft:dark_forest": "2025-07-25 21:31:54 +0000",
       "minecraft:lukewarm_ocean": "2025-07-23 23:53:42 +0000",
       "minecraft:river": "2025-07-23 23:51:00 +0000",
+      "minecraft:lush_caves": "2025-07-25 21:54:56 +0000",
       "minecraft:jungle": "2025-07-23 23:53:05 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-25 21:41:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-24 00:10:47 +0000",
@@ -855,6 +856,7 @@
       "sweet_berries": "2025-07-25 21:43:40 +0000",
       "porkchop": "2025-07-24 00:19:44 +0000",
       "mutton": "2025-07-25 21:47:42 +0000",
+      "glow_berries": "2025-07-25 21:56:27 +0000",
       "melon_slice": "2025-07-24 00:20:18 +0000"
     },
     "done": false
@@ -1303,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-25 21:49:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-07-25 21:10:46 +0000"
@@ -1369,6 +1377,12 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "oceanographytable": "2025-07-25 21:51:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-25 21:44:09 +0000"
@@ -1429,6 +1443,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-07-25 21:56:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_jungle_planks": "2025-07-25 21:09:31 +0000"
@@ -1438,6 +1458,18 @@
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-07-25 21:09:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-07-25 21:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-25 21:49:06 +0000"
     },
     "done": true
   },
@@ -1486,6 +1518,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-25 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-25 21:55:05 +0000"
     },
     "done": true
   },
@@ -1557,6 +1595,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-07-25 21:47:58 +0000",
       "brown_mushroom": "2025-07-25 21:42:38 +0000"
     },
     "done": false
@@ -1564,6 +1603,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-25 21:35:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:56:24 +0000"
     },
     "done": true
   },
@@ -1645,9 +1690,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-25 21:50:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-25 21:09:33 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-07-25 21:49:11 +0000"
     },
     "done": true
   },
@@ -1708,6 +1765,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_jungle_planks": "2025-07-25 21:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-07-25 21:55:13 +0000"
     },
     "done": true
   },
@@ -1843,6 +1906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-25 21:55:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-25 21:16:50 +0000"
@@ -1882,6 +1951,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-25 21:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-25 21:49:11 +0000"
     },
     "done": true
   },
@@ -2008,6 +2083,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-25 21:13:04 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "oceanographytable": "2025-07-25 21:51:00 +0000"
     },
     "done": true
   },
