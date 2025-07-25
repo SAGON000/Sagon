@@ -56,11 +56,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-23 23:49:47 +0000",
+      "minecraft:birch_forest": "2025-07-25 21:42:42 +0000",
       "minecraft:beach": "2025-07-23 23:51:44 +0000",
       "minecraft:dark_forest": "2025-07-25 21:31:54 +0000",
       "minecraft:lukewarm_ocean": "2025-07-23 23:53:42 +0000",
       "minecraft:river": "2025-07-23 23:51:00 +0000",
       "minecraft:jungle": "2025-07-23 23:53:05 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-25 21:41:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-24 00:10:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-23 23:47:09 +0000"
     },
@@ -850,7 +852,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-07-24 00:15:50 +0000",
+      "sweet_berries": "2025-07-25 21:43:40 +0000",
       "porkchop": "2025-07-24 00:19:44 +0000",
+      "mutton": "2025-07-25 21:47:42 +0000",
       "melon_slice": "2025-07-24 00:20:18 +0000"
     },
     "done": false
@@ -1209,6 +1213,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:42:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_oak_planks": "2025-07-25 21:09:33 +0000"
@@ -1221,15 +1231,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-25 21:44:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_jungle_planks": "2025-07-25 21:09:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-25 21:45:39 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_rod": {
     "criteria": {
       "has_item": "2025-07-25 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:42:36 +0000"
     },
     "done": true
   },
@@ -1287,9 +1315,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-25 21:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-07-25 21:10:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:42:36 +0000"
     },
     "done": true
   },
@@ -1317,6 +1357,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-25 21:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-25 21:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-25 21:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-25 21:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-07-25 21:13:04 +0000"
@@ -1335,9 +1399,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:42:36 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_fence": {
     "criteria": {
       "has_item": "2025-07-25 21:22:38 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "taiga": "2025-07-25 21:45:31 +0000"
     },
     "done": true
   },
@@ -1346,6 +1422,12 @@
       "has_lots_of_items": "2025-07-25 21:10:11 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "taiga": "2025-07-25 21:45:31 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
@@ -1401,6 +1483,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-25 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-25 21:44:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-07-25 21:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-25 21:22:38 +0000"
@@ -1416,6 +1516,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
       "has_jungle_planks": "2025-07-25 21:09:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:45:39 +0000"
     },
     "done": true
   },
@@ -1437,11 +1543,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-25 21:44:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-07-25 21:09:31 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2025-07-25 21:42:38 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
@@ -1509,9 +1627,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-25 21:47:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
     "criteria": {
       "has_jungle_planks": "2025-07-25 21:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-25 21:44:18 +0000"
     },
     "done": true
   },
@@ -1557,6 +1687,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-25 21:44:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
     "criteria": {
       "has_jungle_planks": "2025-07-25 21:09:31 +0000"
@@ -1581,6 +1723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-25 21:44:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-25 21:09:33 +0000"
@@ -1590,6 +1738,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-25 21:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-25 21:45:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-07-25 21:45:39 +0000"
     },
     "done": true
   },
@@ -1656,6 +1816,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-25 21:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-25 21:44:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-25 21:44:10 +0000"
     },
     "done": true
   },
@@ -1743,9 +1915,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-25 21:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-25 21:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-25 21:44:09 +0000"
     },
     "done": true
   },
@@ -1758,6 +1942,18 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_jungle_planks": "2025-07-25 21:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-25 21:42:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-07-25 21:42:25 +0000"
     },
     "done": true
   },
@@ -1794,6 +1990,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-07-25 21:07:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-07-25 21:45:37 +0000"
     },
     "done": true
   },

@@ -5477,3 +5477,66 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jul2025 21:42:17.651] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/CrabEntity$CrabSize
 [25Jul2025 21:42:19.737] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:medium_graveyard/medium_graveyard_02 is being run through DFU (hash a5366fae0c3157f85b576090ebed772608ba18ee8ebfeb6bc41458e176a8b60b), this will cause launch time delays
 [25Jul2025 21:42:19.741] [Worker-Main-19/INFO] [ModernFix/]: Instantiating Mojang DFU
+[25Jul2025 21:42:25.933] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[25Jul2025 21:42:31.689] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_16 is being run through DFU (hash 43ec059b7f0af0bf95c5db235b76d6428f93eb84ccf6c61d9417bf960dccab28), this will cause launch time delays
+[25Jul2025 21:42:31.940] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_03 is being run through DFU (hash 9c672064577c8faaa52d9dcc7b4a0dc2c4c4b3b63c415c1bf325003143735632), this will cause launch time delays
+[25Jul2025 21:42:32.159] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[25Jul2025 21:42:43.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 21:42:43.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 21:42:44.387] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_02
+[25Jul2025 21:42:44.498] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_07 is being run through DFU (hash 76596ca855b63c58a4b7722ab1e9cd651c3f9dd0016cdaba414c774cf7e7fd47), this will cause launch time delays
+[25Jul2025 21:42:48.490] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[25Jul2025 21:42:58.140] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_14
+[25Jul2025 21:43:01.664] [Worker-Main-10/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 8018c9c611c0222e81b8a511c2719c2188d11b4c95bb01a0ad5112f4ec95bef5), this will cause launch time delays
+[25Jul2025 21:43:01.874] [Worker-Main-10/DEBUG] [ModernFix/]: Structure morevillagers:village/taiga/taiga_woodworker is being run through DFU (hash 974d5289897fb61cb6b1709ca6cde0c9a1bbfc8a9ddf1d326d259a8a3088b586), this will cause launch time delays
+[25Jul2025 21:43:01.886] [Worker-Main-10/DEBUG] [ModernFix/]: Structure morevillagers:village/taiga/taiga_oceanographer is being run through DFU (hash 6554aceb870f30cd64acca335b838dfb4b068375902aceadfa5e911976af70b2), this will cause launch time delays
+[25Jul2025 21:43:01.903] [Worker-Main-10/DEBUG] [ModernFix/]: Structure morevillagers:village/taiga/taiga_florist is being run through DFU (hash a3e77941b5df5a24a9f5c85eb551b824cdfc4ba17c455ed9566bacbda69b952a), this will cause launch time delays
+[25Jul2025 21:43:01.918] [Worker-Main-10/DEBUG] [ModernFix/]: Structure morevillagers:village/taiga/taiga_hunter is being run through DFU (hash 0eba5343180fc89e43b6a0f0760ff6ef77a0b59a084f4f88c4c5617f005dd4f6), this will cause launch time delays
+[25Jul2025 21:43:01.926] [Worker-Main-10/DEBUG] [ModernFix/]: Structure morevillagers:village/taiga/taiga_engineer is being run through DFU (hash 4798718c74e836c3a9eaa6cb60b81ecf543f00a207eae422c6a2fa8e8b4ddff8), this will cause launch time delays
+[25Jul2025 21:43:01.936] [Worker-Main-10/DEBUG] [ModernFix/]: Structure irons_spellbooks:priest_house_taiga is being run through DFU (hash 9f117e8cc42e857987c04d6a9ce33bca12377eb6160657f728880afeab584e49), this will cause launch time delays
+[25Jul2025 21:43:08.246] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[25Jul2025 21:43:33.369] [Worker-Main-2/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[25Jul2025 21:43:33.429] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[25Jul2025 21:43:47.012] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[25Jul2025 21:43:53.076] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[25Jul2025 21:44:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> SIIIIIIIIIII
+[25Jul2025 21:44:14.775] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_04 is being run through DFU (hash 292045c39a7bf9e7665c20db773c2ed653685b8391f044e5b35fb53cb71b9832), this will cause launch time delays
+[25Jul2025 21:44:15.004] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[25Jul2025 21:44:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> bullying
+[25Jul2025 21:44:59.829] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[25Jul2025 21:45:03.199] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_05 is being run through DFU (hash 0bbf75482ba9bbec44f53d5f1fd980c71152ea7e9d5e4913027f5aaf841ff972), this will cause launch time delays
+[25Jul2025 21:45:11.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> aldea
+[25Jul2025 21:45:12.842] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_11 is being run through DFU (hash f934119d96de80f53308cb0f99691eabff577fa45cfeba9a05197047c16e0c57), this will cause launch time delays
+[25Jul2025 21:45:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> yeeee
+[25Jul2025 21:45:31.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [First Village]
+[25Jul2025 21:45:34.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [First Village]
+[25Jul2025 21:45:36.321] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[25Jul2025 21:45:36.328] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.elysium_api.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[25Jul2025 21:45:36.328] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[25Jul2025 21:45:41.449] [Worker-Main-10/DEBUG] [ModernFix/]: Structure hopo:portal13 is being run through DFU (hash 26374f6b4c81591e3d6d765c06bdfb203f2a7f6828389e6863de217c0c012313), this will cause launch time delays
+[25Jul2025 21:46:19.142] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_12 is being run through DFU (hash e26d38554dadc5ab111ddca85949914faadbeaa44213dd7f3a334f59095820aa), this will cause launch time delays
+[25Jul2025 21:46:48.459] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[25Jul2025 21:46:48.466] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[25Jul2025 21:46:50.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[25Jul2025 21:47:12.549] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_12
+[25Jul2025 21:47:18.327] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[25Jul2025 21:47:22.544] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[25Jul2025 21:47:43.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 21:47:43.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 21:48:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> por ahora vivo
+[25Jul2025 21:48:30.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> toma
+[25Jul2025 21:48:53.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> alto martillaso en tu casa dea
+[25Jul2025 21:49:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Sweet Dreams]
+[25Jul2025 21:49:06.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[25Jul2025 21:49:37.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Sweet Dreams]
+[25Jul2025 21:50:10.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> agarra cama y dormi
+[25Jul2025 21:50:16.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> listo
+[25Jul2025 21:51:00.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Let's Get To Work]
+[25Jul2025 21:51:05.563] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in graveyard:past
+[25Jul2025 21:51:11.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> que
+[25Jul2025 21:51:21.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/14730, l='ServerLevel[world]', x=-169.52, y=83.94, z=749.61] died, message: 'Forester was slain by Zombie'
+[25Jul2025 21:51:22.760] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[25Jul2025 21:51:41.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> dormi
+[25Jul2025 21:51:45.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> va
+[25Jul2025 21:52:01.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> zzzzzz
+[25Jul2025 21:52:04.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> :blobcatmelt:

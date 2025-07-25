@@ -1196,3 +1196,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jul2025 21:42:07.096] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [25Jul2025 21:42:17.651] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/CrabEntity$CrabSize
 [25Jul2025 21:42:19.741] [Worker-Main-19/INFO] [ModernFix/]: Instantiating Mojang DFU
+[25Jul2025 21:43:08.246] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[25Jul2025 21:43:33.429] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[25Jul2025 21:44:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> SIIIIIIIIIII
+[25Jul2025 21:44:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> bullying
+[25Jul2025 21:44:59.829] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[25Jul2025 21:45:11.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> aldea
+[25Jul2025 21:45:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> yeeee
+[25Jul2025 21:45:31.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [First Village]
+[25Jul2025 21:45:34.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [First Village]
+[25Jul2025 21:45:36.321] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[25Jul2025 21:46:50.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[25Jul2025 21:48:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> por ahora vivo
+[25Jul2025 21:48:30.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> toma
+[25Jul2025 21:48:53.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> alto martillaso en tu casa dea
+[25Jul2025 21:49:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Sweet Dreams]
+[25Jul2025 21:49:06.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[25Jul2025 21:49:37.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Sweet Dreams]
+[25Jul2025 21:50:10.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> agarra cama y dormi
+[25Jul2025 21:50:16.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> listo
+[25Jul2025 21:51:00.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Let's Get To Work]
+[25Jul2025 21:51:11.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> que
+[25Jul2025 21:51:21.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/14730, l='ServerLevel[world]', x=-169.52, y=83.94, z=749.61] died, message: 'Forester was slain by Zombie'
+[25Jul2025 21:51:22.760] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[25Jul2025 21:51:41.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> dormi
+[25Jul2025 21:51:45.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> va
+[25Jul2025 21:52:01.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> zzzzzz
+[25Jul2025 21:52:04.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> :blobcatmelt:
