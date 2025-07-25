@@ -1312,6 +1312,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-07-25 21:43:42 +0000",
+      "potato": "2025-07-25 22:19:54 +0000",
       "mutton": "2025-07-24 00:04:52 +0000",
       "bread": "2025-07-25 21:49:11 +0000",
       "melon_slice": "2025-07-24 00:22:08 +0000"
