@@ -1129,3 +1129,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jul2025 21:10:03.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> guardemos spawn los 2
 [25Jul2025 21:10:46.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Stone Age]
 [25Jul2025 21:11:30.359] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[25Jul2025 21:13:25.104] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[25Jul2025 21:13:25.559] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[25Jul2025 21:13:27.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Not Today, Thank You]
+[25Jul2025 21:13:41.468] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[25Jul2025 21:13:41.469] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[25Jul2025 21:13:41.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Skeleton
+[25Jul2025 21:13:44.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[25Jul2025 21:14:13.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> mierda
+[25Jul2025 21:15:21.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> nos mira un creeper
+[25Jul2025 21:15:25.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> re turbio
+[25Jul2025 21:15:35.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> mal
+[25Jul2025 21:15:42.752] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[25Jul2025 21:15:42.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[25Jul2025 21:15:42.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was blown up by Skeleton Creeper
+[25Jul2025 21:15:47.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[25Jul2025 21:16:38.045] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KitsuneVariant
+[25Jul2025 21:18:05.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> use el nuevo modpack
+[25Jul2025 21:18:09.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[25Jul2025 21:19:19.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> por alguna razon, si te escucho atras mio estas adelante
