@@ -1270,3 +1270,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jul2025 02:30:33.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
 [26Jul2025 02:30:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
 [26Jul2025 02:30:33.167] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[26Jul2025 02:58:20.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautiABC[/127.5.64.212:45921] logged in with entity id 30107 at (885.5, 63.0, 2558.5)
+[26Jul2025 02:58:20.071] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player lautiABC
+[26Jul2025 02:58:20.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC joined the game
+[26Jul2025 02:58:20.077] [Server thread/INFO] [Jade/]: Syncing config to lautiABC (71cf154b-6e54-326e-9700-98d60017873d)
+[26Jul2025 02:58:22.365] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautiABC (18)
+[26Jul2025 02:58:22.366] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[26Jul2025 02:58:37.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[26Jul2025 02:58:40.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[26Jul2025 02:58:40.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat

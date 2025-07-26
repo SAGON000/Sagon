@@ -1870,6 +1870,18 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "cartographytable": "2025-07-25 23:03:25 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "cartographytable": "2025-07-25 23:03:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-07-25 23:04:36 +0000"
@@ -1900,12 +1912,6 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-07-25 23:04:38 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-07-25 23:04:36 +0000"
@@ -1921,12 +1927,6 @@
   "refurbished_furniture:recipes/misc/constructing/light_fridge": {
     "criteria": {
       "has_iron_ingot": "2025-07-25 23:04:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_chestplate": "2025-07-25 23:04:38 +0000"
     },
     "done": true
   },
@@ -2061,12 +2061,6 @@
       "has_iron_ingot": "2025-07-25 23:04:36 +0000"
     },
     "done": true
-  },
-  "morevillagers:all_workstations_get": {
-    "criteria": {
-      "cartographytable": "2025-07-25 23:03:25 +0000"
-    },
-    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
@@ -2476,12 +2470,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_chestplate": "2025-07-25 23:04:38 +0000"
-    },
-    "done": true
-  },
   "exposure:recipes/tools/camera": {
     "criteria": {
       "has_iron": "2025-07-25 23:04:36 +0000"
@@ -2578,15 +2566,27 @@
     },
     "done": true
   },
-  "morevillagers:first_workstation_get": {
-    "criteria": {
-      "cartographytable": "2025-07-25 23:03:25 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-07-25 23:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-25 23:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-07-25 23:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-07-25 23:04:38 +0000"
     },
     "done": true
   },
