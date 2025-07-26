@@ -1195,3 +1195,78 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jul2025 02:16:29.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> holaaa :D
 [26Jul2025 02:17:32.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Skeleton
 [26Jul2025 02:18:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 tried to swim in lava
+[26Jul2025 02:19:17.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[26Jul2025 02:20:25.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> on tas?
+[26Jul2025 02:20:48.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[26Jul2025 02:20:55.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[26Jul2025 02:20:56.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Zombie
+[26Jul2025 02:21:19.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> aldea
+[26Jul2025 02:21:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> si
+[26Jul2025 02:21:41.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> vamos
+[26Jul2025 02:22:00.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[26Jul2025 02:22:04.588] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[26Jul2025 02:22:05.018] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 429 ms
+[26Jul2025 02:23:34.278] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/entity/XpReward
+[26Jul2025 02:23:35.146] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
+[26Jul2025 02:23:35.146] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
+[26Jul2025 02:23:35.864] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
+[26Jul2025 02:23:35.876] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
+[26Jul2025 02:23:36.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> si
+[26Jul2025 02:23:40.801] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[26Jul2025 02:23:43.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[26Jul2025 02:23:50.113] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/animate/server/handler/EMAnimationHandler
+[26Jul2025 02:23:51.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> donde?
+[26Jul2025 02:24:06.472] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1061, y=-9, z=687}
+[26Jul2025 02:24:06.473] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1061, y=-9, z=686}
+[26Jul2025 02:25:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> como que vasmos muy rapido
+[26Jul2025 02:25:55.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[26Jul2025 02:25:56.933] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[26Jul2025 02:26:20.337] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/MaulerEntity$Type
+[26Jul2025 02:26:39.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> pa alla?
+[26Jul2025 02:26:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> una ballena
+[26Jul2025 02:26:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[26Jul2025 02:27:07.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> uohhhhhhh
+[26Jul2025 02:27:13.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[26Jul2025 02:27:16.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> ala
+[26Jul2025 02:27:29.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> uyuyuyuuy
+[26Jul2025 02:28:26.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> nada
+[26Jul2025 02:28:27.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
+[26Jul2025 02:28:44.672] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1912, y=-16, z=-1101}
+[26Jul2025 02:28:44.673] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1915, y=-16, z=-1096}
+[26Jul2025 02:28:44.674] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1912, y=-15, z=-1100}
+[26Jul2025 02:28:44.777] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1902, y=-26, z=-1101}
+[26Jul2025 02:28:47.092] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1902, y=-25, z=-1080} but found not block entity block Block{minecraft:water}[level=8] at location
+[26Jul2025 02:28:47.092] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-1902, y=-25, z=-1080}
+[26Jul2025 02:28:50.584] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1885, y=-32, z=-1149}
+[26Jul2025 02:28:50.591] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1891, y=-25, z=-1151}
+[26Jul2025 02:28:52.909] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26950, l='ServerLevel[world]', x=-1885.50, y=29.00, z=-1036.50]
+[26Jul2025 02:28:53.297] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1891, y=-32, z=-1155}
+[26Jul2025 02:28:55.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> re piola se ve el mar
+[26Jul2025 02:29:17.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.2626457474295876
+[26Jul2025 02:29:17.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.3479904136845562
+[26Jul2025 02:29:17.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.41038899817726815
+[26Jul2025 02:29:18.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 1.0577855279472033
+[26Jul2025 02:29:18.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.7136569868449669
+[26Jul2025 02:29:18.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.9702966638268435
+[26Jul2025 02:29:18.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.6228093949854383
+[26Jul2025 02:29:18.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.8664963851884977
+[26Jul2025 02:29:18.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.5166820339309197
+[26Jul2025 02:29:18.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.8664963851884977
+[26Jul2025 02:29:18.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.49953803117603
+[26Jul2025 02:29:21.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> CORRE WN
+[26Jul2025 02:29:29.974] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/29045, l='ServerLevel[world]', x=-1887.50, y=26.00, z=-1029.50]
+[26Jul2025 02:29:35.598] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/29141, l='ServerLevel[world]', x=-1880.50, y=26.00, z=-1050.50]
+[26Jul2025 02:29:59.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.2705964259803295
+[26Jul2025 02:29:59.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.28957266198494835
+[26Jul2025 02:29:59.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.30665127393672265
+[26Jul2025 02:29:59.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.3220220242860705
+[26Jul2025 02:29:59.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.3358556992341164
+[26Jul2025 02:29:59.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.34830600635746123
+[26Jul2025 02:29:59.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lobo3224) moved wrongly! 0.359511282471658
+[26Jul2025 02:30:00.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[26Jul2025 02:30:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[26Jul2025 02:30:00.113] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[26Jul2025 02:30:27.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Skelewag
+[26Jul2025 02:30:33.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[26Jul2025 02:30:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[26Jul2025 02:30:33.167] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
