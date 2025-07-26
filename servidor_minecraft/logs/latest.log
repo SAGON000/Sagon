@@ -1339,3 +1339,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jul2025 03:28:08.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was impaled by Deepling
 [26Jul2025 03:28:26.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Isn't It Iron Pick]
 [26Jul2025 03:28:50.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Cobweb Entanglement]
+[26Jul2025 03:32:10.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[26Jul2025 03:33:48.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 0.5566376891273421
+[26Jul2025 03:33:48.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 0.9161288252423674
+[26Jul2025 03:33:48.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 1.2692690148401198
+[26Jul2025 03:33:48.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 1.6153543680076154
+[26Jul2025 03:33:48.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 1.9537072718737818
+[26Jul2025 03:33:48.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 2.2836740949634304
+[26Jul2025 03:33:48.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 2.6086498284715844
+[26Jul2025 03:34:45.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[26Jul2025 03:35:06.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[26Jul2025 03:35:24.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[26Jul2025 03:35:57.800] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-759, y=-29, z=-1879}
+[26Jul2025 03:35:57.801] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-755, y=-29, z=-1879}
+[26Jul2025 03:36:57.451] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 5564 ms
+[26Jul2025 03:36:57.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5556ms or 111 ticks behind
+[26Jul2025 03:38:21.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[26Jul2025 03:38:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> gonza?
+[26Jul2025 03:38:27.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> que
+[26Jul2025 03:38:30.890] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/30188, l='ServerLevel[world]', x=852.70, y=63.00, z=2557.70] died, message: 'Oceanographer was slain by Zombie'
+[26Jul2025 03:38:35.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> onde tas?
+[26Jul2025 03:39:21.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> perdido
+[26Jul2025 03:39:32.050] [Worker-Main-52/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-688, y=-32, z=-2281}
+[26Jul2025 03:39:34.850] [Worker-Main-51/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-706, y=-37, z=-2291}
+[26Jul2025 03:39:35.532] [Worker-Main-51/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-701, y=-37, z=-2291}
+[26Jul2025 03:39:35.533] [Worker-Main-51/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-694, y=-32, z=-2303}
+[26Jul2025 03:39:35.543] [Worker-Main-51/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-679, y=-32, z=-2296}
+[26Jul2025 03:39:45.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Diamonds!]
