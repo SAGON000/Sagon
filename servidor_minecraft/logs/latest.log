@@ -1279,3 +1279,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jul2025 02:58:37.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
 [26Jul2025 02:58:40.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
 [26Jul2025 02:58:40.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[26Jul2025 03:02:59.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d timed out
+[26Jul2025 03:02:59.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lautiABC
+[26Jul2025 03:02:59.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[26Jul2025 03:03:08.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[26Jul2025 03:03:10.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[26Jul2025 03:03:10.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[26Jul2025 03:03:58.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YOUNGDINO07[/127.165.153.213:43567] logged in with entity id 31002 at (-220.69999998807907, 74.0, 733.6999999880791)
+[26Jul2025 03:03:58.931] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player YOUNGDINO07
+[26Jul2025 03:03:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 joined the game
+[26Jul2025 03:03:58.937] [Server thread/INFO] [Jade/]: Syncing config to YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a)
+[26Jul2025 03:03:59.992] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of YOUNGDINO07 (18)
+[26Jul2025 03:03:59.993] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to YOUNGDINO07
+[26Jul2025 03:04:05.570] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[26Jul2025 03:04:07.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[26Jul2025 03:04:07.576] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
+[26Jul2025 03:08:59.277] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@466bfe04[id=<null>,name=lobo3224,properties={},legacy=false] (/127.74.198.227:35941) lost connection: Disconnected

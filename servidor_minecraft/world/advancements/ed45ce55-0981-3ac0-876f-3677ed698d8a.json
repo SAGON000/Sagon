@@ -2304,12 +2304,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-07-26 02:19:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-26 02:09:34 +0000"
@@ -2436,12 +2430,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-07-26 02:19:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-26 02:09:34 +0000"
@@ -2451,6 +2439,18 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-07-26 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-26 02:19:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-26 02:19:15 +0000"
     },
     "done": true
   },
