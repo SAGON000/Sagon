@@ -1366,3 +1366,355 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jul2025 03:39:35.533] [Worker-Main-51/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-694, y=-32, z=-2303}
 [26Jul2025 03:39:35.543] [Worker-Main-51/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-679, y=-32, z=-2296}
 [26Jul2025 03:39:45.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Diamonds!]
+[26Jul2025 03:40:41.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Into Darkness]
+[26Jul2025 03:40:50.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[26Jul2025 03:42:12.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Crops of the Wild]
+[26Jul2025 03:43:51.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[26Jul2025 03:44:04.255] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Chunk source main thread executor for minecraft:overworld
+net.minecraft.ReportedException: Feature placement
+	at net.minecraft.server.level.ChunkMap.m_214912_(ChunkMap.java:658) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Cannot set property DirectionProperty{name=facing, clazz=class net.minecraft.core.Direction, values=[north, south, west, east]} to down on Block{waystones:waystone}, it is not an allowed value
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.blay09.mods.waystones.worldgen.WaystoneFeature.m_142674_(WaystoneFeature.java:40) ~[waystones-forge-1.20.1-14.1.16.jar%23247!/:14.1.16]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[26Jul2025 03:44:04.300] [Worker-Main-60/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 1f6c6375-b3af-409a-8b91-152c6c1fa376
+[26Jul2025 03:44:04.301] [Worker-Main-60/INFO] [STDOUT/]: [net.minecraft.server.Bootstrap:m_135875_:146]: ---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 2025-07-26 03:44:04
+Description: Feature placement
+
+java.lang.IllegalArgumentException: Cannot set property DirectionProperty{name=facing, clazz=class net.minecraft.core.Direction, values=[north, south, west, east]} to down on Block{waystones:waystone}, it is not an allowed value
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,re:classloading,pl:mixin:APP:ferritecore.fastmap.mixin.json:FastMapStateHolderMixin,pl:mixin:A}
+	at net.blay09.mods.waystones.worldgen.WaystoneFeature.m_142674_(WaystoneFeature.java:40) ~[waystones-forge-1.20.1-14.1.16.jar%23247!/:14.1.16] {re:classloading}
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,re:classloading,pl:mixin:APP:farmersdelight.mixins.json:KeepRichSoilGiantTreeMixin,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?] {}
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?] {}
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterwitchhuts.mixins.json:DisableVanillaWitchHutsMixin,pl:mixin:APP:betteroceanmonuments.mixins.json:DisableVanillaMonumentsMixin,pl:mixin:APP:citadel.mixins.json:ChunkGeneratorMixin,pl:mixin:APP:betterdeserttemples.mixins.json:DisableVanillaPyramidsMixin,pl:mixin:APP:betterfortresses.mixins.json:DisableVanillaFortressesMixin,pl:mixin:APP:betterstrongholds.mixins.json:DisableVanillaStrongholdsMixin,pl:mixin:APP:bettermineshafts.mixins.json:DisableVanillaMineshaftsMixin,pl:mixin:APP:betterjungletemples.mixins.json:DisableVanillaJungleTempleMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:alexscaves.mixins.json:ChunkStatusMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:alexscaves.mixins.json:ChunkStatusMixin,pl:mixin:A}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ChunkMapLoadMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapSlowUnload,pl:mixin:A}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?] {}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ChunkMapLoadMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapSlowUnload,pl:mixin:A}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin,re:computing_frames}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin,re:computing_frames}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {re:mixin}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Worker-Main-60
+Suspected Mod: 
+	Waystones (waystones), Version: 14.1.16
+		Issue tracker URL: https://github.com/TwelveIterationMods/Waystones/issues
+		at TRANSFORMER/waystones@14.1.16/net.blay09.mods.waystones.worldgen.WaystoneFeature.m_142674_(WaystoneFeature.java:40)
+Stacktrace:
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,re:classloading,pl:mixin:APP:ferritecore.fastmap.mixin.json:FastMapStateHolderMixin,pl:mixin:A}
+	at net.blay09.mods.waystones.worldgen.WaystoneFeature.m_142674_(WaystoneFeature.java:40) ~[waystones-forge-1.20.1-14.1.16.jar%23247!/:14.1.16] {re:classloading}
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,re:classloading,pl:mixin:APP:farmersdelight.mixins.json:KeepRichSoilGiantTreeMixin,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?] {}
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?] {}
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterwitchhuts.mixins.json:DisableVanillaWitchHutsMixin,pl:mixin:APP:betteroceanmonuments.mixins.json:DisableVanillaMonumentsMixin,pl:mixin:APP:citadel.mixins.json:ChunkGeneratorMixin,pl:mixin:APP:betterdeserttemples.mixins.json:DisableVanillaPyramidsMixin,pl:mixin:APP:betterfortresses.mixins.json:DisableVanillaFortressesMixin,pl:mixin:APP:betterstrongholds.mixins.json:DisableVanillaStrongholdsMixin,pl:mixin:APP:bettermineshafts.mixins.json:DisableVanillaMineshaftsMixin,pl:mixin:APP:betterjungletemples.mixins.json:DisableVanillaJungleTempleMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:alexscaves.mixins.json:ChunkStatusMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:alexscaves.mixins.json:ChunkStatusMixin,pl:mixin:A}
+-- Feature --
+Details:
+	Description: ResourceKey[minecraft:worldgen/placed_feature / waystones:waystone]
+Stacktrace:
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterwitchhuts.mixins.json:DisableVanillaWitchHutsMixin,pl:mixin:APP:betteroceanmonuments.mixins.json:DisableVanillaMonumentsMixin,pl:mixin:APP:citadel.mixins.json:ChunkGeneratorMixin,pl:mixin:APP:betterdeserttemples.mixins.json:DisableVanillaPyramidsMixin,pl:mixin:APP:betterfortresses.mixins.json:DisableVanillaFortressesMixin,pl:mixin:APP:betterstrongholds.mixins.json:DisableVanillaStrongholdsMixin,pl:mixin:APP:bettermineshafts.mixins.json:DisableVanillaMineshaftsMixin,pl:mixin:APP:betterjungletemples.mixins.json:DisableVanillaJungleTempleMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:alexscaves.mixins.json:ChunkStatusMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:alexscaves.mixins.json:ChunkStatusMixin,pl:mixin:A}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ChunkMapLoadMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapSlowUnload,pl:mixin:A}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?] {}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ChunkMapLoadMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapSlowUnload,pl:mixin:A}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin,re:computing_frames}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin,re:computing_frames}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {re:mixin}
+
+
+-- Generation --
+Details:
+	CenterX: -12
+	CenterZ: -158
+	Seed: 6042170242738431500
+Stacktrace:
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:betterwitchhuts.mixins.json:DisableVanillaWitchHutsMixin,pl:mixin:APP:betteroceanmonuments.mixins.json:DisableVanillaMonumentsMixin,pl:mixin:APP:citadel.mixins.json:ChunkGeneratorMixin,pl:mixin:APP:betterdeserttemples.mixins.json:DisableVanillaPyramidsMixin,pl:mixin:APP:betterfortresses.mixins.json:DisableVanillaFortressesMixin,pl:mixin:APP:betterstrongholds.mixins.json:DisableVanillaStrongholdsMixin,pl:mixin:APP:bettermineshafts.mixins.json:DisableVanillaMineshaftsMixin,pl:mixin:APP:betterjungletemples.mixins.json:DisableVanillaJungleTempleMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:alexscaves.mixins.json:ChunkStatusMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:alexscaves.mixins.json:ChunkStatusMixin,pl:mixin:A}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ChunkMapLoadMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapSlowUnload,pl:mixin:A}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?] {}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ChunkMapLoadMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapSlowUnload,pl:mixin:A}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin,re:computing_frames}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin,re:computing_frames}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {re:mixin}
+
+
+-- Chunk to be generated --
+Details:
+	Location: -12,-158
+	Position hash: -674309865484
+	Generator: net.minecraft.world.level.levelgen.NoiseBasedChunkGenerator@74411e9b
+Stacktrace:
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ChunkMapLoadMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapSlowUnload,pl:mixin:A}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?] {}
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:bugfix.paper_chunk_patches.ChunkMapMixin,pl:mixin:APP:modernfix-forge.mixins.json:bugfix.chunk_deadlock.ChunkMapLoadMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapMixin,pl:mixin:APP:smoothchunk.mixins.json:ChunkMapSlowUnload,pl:mixin:A}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?] {re:classloading}
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin,re:computing_frames}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin,re:computing_frames}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {re:mixin}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.20.1
+	Minecraft Version ID: 1.20.1
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 17.0.15, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1125251264 bytes (1073 MiB) / 4747952128 bytes (4528 MiB) up to 15032385536 bytes (14336 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7997.99
+	Virtual memory used (MB): 7934.21
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx14G
+	ModLauncher: 10.0.9+10.0.9+main.dcd20f30
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.5.jar eventbus PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.20.1-47.3.7.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.9.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar redirector TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		YungsBetterDungeons-1.20-Forge-4.0.4.jar          |YUNG's Better Dungeons        |betterdungeons                |1.20-Forge-4.0.4    |DONE      |Manifest: NOSIGNATURE
+		kuma-api-forge-20.1.10+1.20.1.jar                 |KumaAPI                       |kuma_api                      |20.1.10             |DONE      |Manifest: NOSIGNATURE
+		happyghastmod-1.5.4.jar                           |Happy Ghast Mod               |happyghastmod                 |1.5.4               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterWitchHuts-1.20-Forge-3.0.3.jar         |YUNG's Better Witch Huts      |betterwitchhuts               |1.20-Forge-3.0.3    |DONE      |Manifest: NOSIGNATURE
+		Jadens-Nether-Expansion-2.3.5.jar                 |Jaden's Nether Expansion      |netherexp                     |2.3.5               |DONE      |Manifest: NOSIGNATURE
+		geckolib-forge-1.20.1-4.7.3.jar                   |GeckoLib 4                    |geckolib                      |4.7.3               |DONE      |Manifest: NOSIGNATURE
+		player-animation-lib-forge-1.0.2-rc1+1.20.jar     |Player Animator               |playeranimator                |1.0.2-rc1+1.20      |DONE      |Manifest: NOSIGNATURE
+		ElysiumAPI-1.20.1-1.1.3.jar                       |Elysium                       |elysium_api                   |1.1.3               |DONE      |Manifest: NOSIGNATURE
+		jei-1.20.1-forge-15.20.0.112.jar                  |Just Enough Items             |jei                           |15.20.0.112         |DONE      |Manifest: NOSIGNATURE
+		The_Graveyard_3.1_(FORGE)_for_1.20.1.jar          |The Graveyard                 |graveyard                     |3.1                 |DONE      |Manifest: NOSIGNATURE
+		YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar    |YUNG's Better Ocean Monuments |betteroceanmonuments          |1.20-Forge-3.0.4    |DONE      |Manifest: NOSIGNATURE
+		connectivity-1.20.1-7.1.jar                       |Connectivity Mod              |connectivity                  |1.20.1-7.1          |DONE      |Manifest: NOSIGNATURE
+		TRender-1.0.5-1.20.1-forge-SNAPSHOT.jar           |TRender                       |trender                       |1.0.5               |DONE      |Manifest: NOSIGNATURE
+		caelus-forge-3.2.0+1.20.1.jar                     |Caelus API                    |caelus                        |3.2.0+1.20.1        |DONE      |Manifest: NOSIGNATURE
+		waystones-forge-1.20.1-14.1.16.jar                |Waystones                     |waystones                     |14.1.16             |DONE      |Manifest: NOSIGNATURE
+		Clumps-forge-1.20.1-12.0.0.4.jar                  |Clumps                        |clumps                        |12.0.0.4            |DONE      |Manifest: NOSIGNATURE
+		fastasyncworldsave-1.20.1-2.4.jar                 |fastasyncworldsave mod        |fastasyncworldsave            |1.20.1-2.4          |DONE      |Manifest: NOSIGNATURE
+		betterendcities-1.0.0-1.20.1.jar                  |Better End Cities Vanilla     |betterendcities               |1.0.0-1.20.1        |DONE      |Manifest: NOSIGNATURE
+		YungsCaveBiomes-1.20.1-Forge-2.0.5.jar            |YUNG's Cave Biomes            |yungscavebiomes               |1.20.1-Forge-2.0.5  |DONE      |Manifest: NOSIGNATURE
+		modernfix-forge-5.24.3+mc1.20.1.jar               |ModernFix                     |modernfix                     |5.24.3+mc1.20.1     |DONE      |Manifest: NOSIGNATURE
+		citadel-2.6.2-1.20.1.jar                          |Citadel                       |citadel                       |2.6.2               |DONE      |Manifest: NOSIGNATURE
+		alexsmobs-1.22.9.jar                              |Alex's Mobs                   |alexsmobs                     |1.22.9              |DONE      |Manifest: NOSIGNATURE
+		YungsApi-1.20-Forge-4.0.6.jar                     |YUNG's API                    |yungsapi                      |1.20-Forge-4.0.6    |DONE      |Manifest: NOSIGNATURE
+		mixinextras-forge-0.4.1.jar                       |MixinExtras                   |mixinextras                   |0.4.1               |DONE      |Manifest: NOSIGNATURE
+		redeco-1.14.1-forge-1.20.1.jar                    |Re:Deco                       |redeco                        |1.14.1              |DONE      |Manifest: NOSIGNATURE
+		starlight-1.1.2+forge.1cda73c.jar                 |Starlight                     |starlight                     |1.1.2+forge.1cda73c |DONE      |Manifest: NOSIGNATURE
+		YungsBetterDesertTemples-1.20-Forge-3.0.3.jar     |YUNG's Better Desert Temples  |betterdeserttemples           |1.20-Forge-3.0.3    |DONE      |Manifest: NOSIGNATURE
+		balm-forge-1.20.1-7.3.33-all.jar                  |Balm                          |balm                          |7.3.33              |DONE      |Manifest: NOSIGNATURE
+		BOMD-Forge-1.20.1-1.1.1.jar                       |Bosses of Mass Destruction    |bosses_of_mass_destruction    |1.1.1               |DONE      |Manifest: NOSIGNATURE
+		Terralith_1.20.x_v2.5.4.jar                       |Terralith                     |terralith                     |2.5.4               |DONE      |Manifest: NOSIGNATURE
+		FpsReducer2-forge-1.20.1-2.5.1.jar                |FPS Reducer                   |fpsreducer                    |1.20.1-2.5.1        |DONE      |Manifest: NOSIGNATURE
+		azurelib-neo-1.20.1-3.0.11.jar                    |AzureLib                      |azurelib                      |3.0.11              |DONE      |Manifest: NOSIGNATURE
+		exposure-1.20.1-1.7.16-forge.jar                  |Exposure                      |exposure                      |1.7.16              |DONE      |Manifest: NOSIGNATURE
+		puzzlesaccessapi-forge-20.1.1.jar                 |Puzzles Access Api            |puzzlesaccessapi              |20.1.1              |DONE      |Manifest: NOSIGNATURE
+		YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar  |YUNG's Better Nether Fortresse|betterfortresses              |1.20-Forge-2.0.6    |DONE      |Manifest: NOSIGNATURE
+		cloth-config-11.1.136-forge.jar                   |Cloth Config v10 API          |cloth_config                  |11.1.136            |DONE      |Manifest: NOSIGNATURE
+		forge-1.20.1-47.3.7-universal.jar                 |Forge                         |forge                         |47.3.7              |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		Emojiful-Forge-1.20.1-4.2.0.jar                   |Emojiful                      |emojiful                      |4.2.0               |DONE      |Manifest: NOSIGNATURE
+		embeddium-0.3.31+mc1.20.1.jar                     |Embeddium                     |embeddium                     |0.3.31+mc1.20.1     |DONE      |Manifest: NOSIGNATURE
+		friendsandfoes-forge-mc1.20.1-3.0.9.jar           |Friends&Foes                  |friendsandfoes                |3.0.9               |DONE      |Manifest: NOSIGNATURE
+		wither_spawn_animation-1.5.2-forge-1.20.1.jar     |Wither Spawn Animation        |wither_spawn_animation        |1.5.2               |DONE      |Manifest: NOSIGNATURE
+		Hearths v1.0.4 f12-80.mod.jar                     |Hearths                       |hearths                       |1.0.4               |DONE      |Manifest: NOSIGNATURE
+		server-1.20.1-20230612.114412-srg.jar             |Minecraft                     |minecraft                     |1.20.1              |DONE      |Manifest: NOSIGNATURE
+		smoothchunk-1.20.1-4.1.jar                        |Smoothchunk mod               |smoothchunk                   |1.20.1-4.1          |DONE      |Manifest: NOSIGNATURE
+		FarmersDelight-1.20.1-1.2.8.jar                   |Farmer's Delight              |farmersdelight                |1.20.1-1.2.8        |DONE      |Manifest: NOSIGNATURE
+		entity_texture_features_forge_1.20.1-6.2.9.jar    |Entity Texture Features       |entity_texture_features       |6.2.9               |DONE      |Manifest: NOSIGNATURE
+		alexscaves-2.0.2.jar                              |Alex's Caves                  |alexscaves                    |2.0.2               |DONE      |Manifest: NOSIGNATURE
+		voicechat-forge-1.20.1-2.5.35.jar                 |Simple Voice Chat             |voicechat                     |1.20.1-2.5.35       |DONE      |Manifest: NOSIGNATURE
+		morevillagers-forge-1.20.1-5.0.0.jar              |More Villagers                |morevillagers                 |5.0.0               |DONE      |Manifest: NOSIGNATURE
+		TerraBlender-forge-1.20.1-3.0.1.10.jar            |TerraBlender                  |terrablender                  |3.0.1.10            |DONE      |Manifest: NOSIGNATURE
+		moonlight-1.20-2.14.13-forge.jar                  |Moonlight Library             |moonlight                     |1.20-2.14.13        |DONE      |Manifest: NOSIGNATURE
+		Jade-1.20.1-Forge-11.13.1.jar                     |Jade                          |jade                          |11.13.1+forge       |DONE      |Manifest: NOSIGNATURE
+		mofus_broken_constellation-0.9.0-forge-1.20.1.jar |Mofu's better end             |mofus_better_end_             |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7b.jar  |HopoBetterRuinedPortals       |hoporp                        |1.3.7               |DONE      |Manifest: NOSIGNATURE
+		CullLessLeaves-Reforged-1.20.1-1.0.5.jar          |Cull Less Leaves Reforged     |culllessleaves                |1.20.1-1.0.5        |DONE      |Manifest: NOSIGNATURE
+		CreativeCore_FORGE_v2.12.32_mc1.20.1.jar          |CreativeCore                  |creativecore                  |2.12.32             |DONE      |Manifest: NOSIGNATURE
+		bfendcities-1.0.jar                               |Big F&$%ing End Cities        |bfendcities                   |1.0                 |DONE      |Manifest: NOSIGNATURE
+		eeeabsmobs-1.20.1-0.97-Fix.jar                    |EEEAB's Mobs                  |eeeabsmobs                    |1.20.1-0.97         |DONE      |Manifest: NOSIGNATURE
+		nethersdelight-1.20.1-4.0.jar                     |Nether's Delight              |nethersdelight                |1.20.1-4.0          |DONE      |Manifest: NOSIGNATURE
+		resourcefulconfig-forge-1.20.1-2.1.3.jar          |Resourcefulconfig             |resourcefulconfig             |2.1.3               |DONE      |Manifest: NOSIGNATURE
+		samurai_dynasty-0.0.49-1.20.1-neo.jar             |Samurai Dynasty               |samurai_dynasty               |0.0.49-1.20.1-neo   |DONE      |Manifest: NOSIGNATURE
+		lionfishapi-2.4-Fix.jar                           |LionfishAPI                   |lionfishapi                   |2.4-Fix             |DONE      |Manifest: NOSIGNATURE
+		Ribbits-1.20.1-Forge-3.0.4.jar                    |Ribbits                       |ribbits                       |1.20.1-Forge-3.0.4  |DONE      |Manifest: NOSIGNATURE
+		L_Enders_Cataclysm-3.09.jar                       |cataclysm                     |cataclysm                     |3.09                |DONE      |Manifest: NOSIGNATURE
+		curios-forge-5.14.1+1.20.1.jar                    |Curios API                    |curios                        |5.14.1+1.20.1       |DONE      |Manifest: NOSIGNATURE
+		gravestone-forge-1.20.1-1.0.32.jar                |Gravestone Mod                |gravestone                    |1.20.1-1.0.32       |DONE      |Manifest: NOSIGNATURE
+		CerbonsApi-Forge-1.20.1-1.0.0.jar                 |CerbonsApi                    |cerbons_api                   |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		irons_spellbooks-1.20.1-3.4.0.9.jar               |Iron's Spells 'n Spellbooks   |irons_spellbooks              |1.20.1-3.4.0.9      |DONE      |Manifest: NOSIGNATURE
+		entityculling-forge-1.8.2-mc1.20.1.jar            |EntityCulling                 |entityculling                 |1.8.2               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterStrongholds-1.20-Forge-4.0.3.jar       |YUNG's Better Strongholds     |betterstrongholds             |1.20-Forge-4.0.3    |DONE      |Manifest: NOSIGNATURE
+		resourcefullib-forge-1.20.1-2.1.29.jar            |Resourceful Lib               |resourcefullib                |2.1.29              |DONE      |Manifest: NOSIGNATURE
+		ImmediatelyFast-Forge-1.5.1+1.20.4.jar            |ImmediatelyFast               |immediatelyfast               |1.5.1+1.20.4        |DONE      |Manifest: NOSIGNATURE
+		tru.e-ending-v1.1.0c.jar                          |True Ending: Ender Dragon Over|mr_limesplatus_ending         |1-v1.1.0c           |DONE      |Manifest: NOSIGNATURE
+		ferritecore-6.0.1-forge.jar                       |Ferrite Core                  |ferritecore                   |6.0.1               |DONE      |Manifest: 41:ce:50:66:d1:a0:05:ce:a1:0e:02:85:9b:46:64:e0:bf:2e:cf:60:30:9a:fe:0c:27:e0:63:66:9a:84:ce:8a
+		cupboard-1.20.1-2.7.jar                           |Cupboard utilities            |cupboard                      |1.20.1-2.7          |DONE      |Manifest: NOSIGNATURE
+		TRansition-1.0.3-1.20.1-forge-SNAPSHOT.jar        |TRansition                    |transition                    |1.0.3               |DONE      |Manifest: NOSIGNATURE
+		refurbished_furniture-forge-1.20.1-1.0.14.jar     |MrCrayfish's Furniture Mod: Re|refurbished_furniture         |1.0.14              |DONE      |Manifest: 0d:78:5f:44:c0:47:0c:8c:e2:63:a3:04:43:d4:12:7d:b0:7c:35:37:dc:40:b1:c1:98:ec:51:eb:3b:3c:45:99
+		ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar              |ItemPhysic                    |itemphysic                    |1.8.7               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterEndIsland-1.20-Forge-2.0.6.jar         |YUNG's Better End Island      |betterendisland               |1.20-Forge-2.0.6    |DONE      |Manifest: NOSIGNATURE
+		PuzzlesLib-v8.1.32-1.20.1-Forge.jar               |Puzzles Lib                   |puzzleslib                    |8.1.32              |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		framework-forge-1.20.1-0.7.15.jar                 |Framework                     |framework                     |0.7.15              |DONE      |Manifest: 0d:78:5f:44:c0:47:0c:8c:e2:63:a3:04:43:d4:12:7d:b0:7c:35:37:dc:40:b1:c1:98:ec:51:eb:3b:3c:45:99
+		illageandspillagerespillaged-1.2.8.jar            |Illage and Spillage: Respillag|illageandspillage             |1.2.8               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterMineshafts-1.20-Forge-4.0.4.jar        |YUNG's Better Mineshafts      |bettermineshafts              |1.20-Forge-4.0.4    |DONE      |Manifest: NOSIGNATURE
+		MOAdecor ELECTRONICS 1.20.1.A.jar                 |MOA: ELECTRONICS              |moa_decor_electronics         |1.20.1.             |DONE      |Manifest: NOSIGNATURE
+		Luminous Nether V1.2.7 - Forge 1.20.1.jar         |Luminous Nether               |luminous_nether               |1.2.7               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterJungleTemples-1.20-Forge-2.0.5.jar     |YUNG's Better Jungle Temples  |betterjungletemples           |1.20-Forge-2.0.5    |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 1f6c6375-b3af-409a-8b91-152c6c1fa376
+	FML: 47.3
+	Forge: net.minecraftforge:47.3.7
+[26Jul2025 03:44:04.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jul2025 03:44:04.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jul2025 03:44:04.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Server closed
+[26Jul2025 03:44:04.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[26Jul2025 03:44:04.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
