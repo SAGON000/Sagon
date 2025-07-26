@@ -3453,12 +3453,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/skunk": {
-    "criteria": {
-      "ex": "2025-07-26 02:05:20 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-26 02:04:06 +0000"
@@ -3477,15 +3471,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-07-26 02:13:41 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-07-26 02:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-26 02:04:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skunk": {
+    "criteria": {
+      "ex": "2025-07-26 02:05:20 +0000"
     },
     "done": true
   },
@@ -3501,15 +3501,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-26 02:13:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-07-26 02:13:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "has_brown_mushroom": "2025-07-26 02:04:06 +0000"
+      "in_better_spider_dungeon": "2025-07-26 03:18:35 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-26 03:18:35 +0000"
     },
     "done": true
   },

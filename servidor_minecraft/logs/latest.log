@@ -1295,3 +1295,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jul2025 03:04:07.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
 [26Jul2025 03:04:07.576] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
 [26Jul2025 03:08:59.277] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@466bfe04[id=<null>,name=lobo3224,properties={},legacy=false] (/127.74.198.227:35941) lost connection: Disconnected
+[26Jul2025 03:10:00.426] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@114c0ed2[id=<null>,name=lobo3224,properties={},legacy=false] (/127.74.198.227:59733) lost connection: Disconnected
+[26Jul2025 03:10:47.623] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@659e1670[id=<null>,name=lobo3224,properties={},legacy=false] (/127.74.198.227:55247) lost connection: Disconnected
+[26Jul2025 03:13:50.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> M.E.G.:eagle::ice_cube:
+[26Jul2025 03:14:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> vir se la come bro.
+[26Jul2025 03:15:17.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/30167, l='ServerLevel[world]', x=852.70, y=63.00, z=2553.30] died, message: 'Engineer was slain by Zombie'
+[26Jul2025 03:15:37.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/30158, l='ServerLevel[world]', x=852.50, y=64.00, z=2541.30] died, message: 'Florist was slain by Zombie'
+[26Jul2025 03:15:39.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.74.198.227:39917] logged in with entity id 34558 at (-1736.7967113491586, 62.07326432466507, -1239.0483128951028)
+[26Jul2025 03:15:39.285] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player lobo3224
+[26Jul2025 03:15:39.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[26Jul2025 03:15:39.294] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Boat['Boat'/34559, l='ServerLevel[world]', x=-1736.80, y=62.52, z=-1239.05] as it would cause deadlock
+[26Jul2025 03:15:39.370] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[26Jul2025 03:15:42.140] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[26Jul2025 03:15:42.140] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[26Jul2025 03:15:48.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/31071, l='ServerLevel[world]', x=-199.20, y=77.00, z=728.23] died, message: 'Oceanographer was slain by Zombie'
+[26Jul2025 03:15:59.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[26Jul2025 03:16:00.686] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[26Jul2025 03:16:00.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[26Jul2025 03:16:02.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Skelewag
+[26Jul2025 03:16:02.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> mori gonza xd
+[26Jul2025 03:16:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> gonza?
+[26Jul2025 03:16:41.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/31028, l='ServerLevel[world]', x=-218.30, y=76.80, z=740.43] died, message: 'Florist was slain by Zombie'
+[26Jul2025 03:16:43.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> mierda
+[26Jul2025 03:18:06.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30186, l='ServerLevel[world]', x=825.52, y=93.00, z=2515.30] died, message: 'Unemployed was slain by Zombie'
+[26Jul2025 03:18:07.295] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 1116 ms
+[26Jul2025 03:18:35.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Cobweb Entanglement]
+[26Jul2025 03:19:11.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Zombie
+[26Jul2025 03:19:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 went up in flames
+[26Jul2025 03:19:19.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set the weather to clear]
+[26Jul2025 03:19:39.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30187, l='ServerLevel[world]', x=845.47, y=67.00, z=2575.77] died, message: 'Unemployed was burnt to a crisp whilst fighting Zombie'
