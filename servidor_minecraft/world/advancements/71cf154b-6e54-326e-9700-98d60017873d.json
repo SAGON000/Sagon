@@ -168,6 +168,7 @@
       "sweet_berries": "2025-07-25 22:04:06 +0000",
       "beef": "2025-07-25 23:01:50 +0000",
       "mutton": "2025-07-25 23:02:01 +0000",
+      "bread": "2025-07-26 03:24:57 +0000",
       "carrot": "2025-07-25 22:39:36 +0000"
     },
     "done": false
@@ -2608,6 +2609,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-26 03:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 02:59:51 +0000"
@@ -2650,9 +2657,21 @@
     },
     "done": true
   },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-26 03:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-26 03:29:34 +0000"
     },
     "done": true
   },
@@ -2665,6 +2684,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-26 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-26 03:29:34 +0000"
     },
     "done": true
   },
