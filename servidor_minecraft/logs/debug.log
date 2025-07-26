@@ -5346,3 +5346,140 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jul2025 02:08:18.142] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
 [26Jul2025 02:08:18.791] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
 [26Jul2025 02:08:31.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[26Jul2025 02:09:36.514] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[26Jul2025 02:09:41.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 02:09:41.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 02:10:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> recupere mis cosas
+[26Jul2025 02:10:57.530] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[26Jul2025 02:11:01.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> godd
+[26Jul2025 02:11:32.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 0.3958501482500054
+[26Jul2025 02:11:32.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 1.8556613732675231
+[26Jul2025 02:11:32.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 3.3874779275958815
+[26Jul2025 02:11:32.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 4.917390466512273
+[26Jul2025 02:11:32.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 6.471154914876664
+[26Jul2025 02:11:32.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 8.049274197856732
+[26Jul2025 02:11:32.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -10.882129129209162,0.0,3.1400333688998217
+[26Jul2025 02:11:33.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -12.527646743987916,0.0,3.609187765462707
+[26Jul2025 02:11:33.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -14.196708418832017,0.0,4.0734013522717305
+[26Jul2025 02:11:33.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -15.888826812960659,0.0,4.528483884984098
+[26Jul2025 02:11:33.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 0.41828289360937276
+[26Jul2025 02:11:39.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[26Jul2025 02:11:45.776] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[26Jul2025 02:11:45.914] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[26Jul2025 02:11:46.062] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[26Jul2025 02:11:48.789] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_02
+[26Jul2025 02:11:49.231] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[26Jul2025 02:11:49.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> :(
+[26Jul2025 02:11:58.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> no guardaste spawn?
+[26Jul2025 02:12:01.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 1.7309735998111933,0.0,-10.244707483598347
+[26Jul2025 02:12:01.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.018214976889965,0.0,-12.031448740851658
+[26Jul2025 02:12:01.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.305304656552721,0.0,-13.840229964884259
+[26Jul2025 02:12:01.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.592301543869212,0.0,-15.670826803705438
+[26Jul2025 02:12:01.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.8792601240964473,0.0,-17.523017335106942
+[26Jul2025 02:12:01.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 3.1662266824007474,0.0,-19.396582340388136
+[26Jul2025 02:12:01.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.00903341459599,0.0,-12.811116643642208
+[26Jul2025 02:12:01.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.2934258813846213,0.0,-14.726925587726498
+[26Jul2025 02:12:01.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.574752000149658,0.0,-16.66357584134829
+[26Jul2025 02:12:01.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.8519957044131274,0.0,-18.620839471089766
+[26Jul2025 02:12:01.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 3.124259164451587,0.0,-20.59846950302881
+[26Jul2025 02:12:01.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 3.3907503331762427,0.0,-22.596206829842117
+[26Jul2025 02:12:03.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> no
+[26Jul2025 02:12:09.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -10.091785149430507,0.0,0.8638228382742454
+[26Jul2025 02:12:09.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -12.16499229753805,0.0,1.0000733348790618
+[26Jul2025 02:12:09.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 16.945086821228017,0.0,-0.8964813294838905
+[26Jul2025 02:12:09.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 16.945086821228017,0.0,-0.8964813294838905
+[26Jul2025 02:12:09.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 14.746473648128415,0.0,-0.8211842567625922
+[26Jul2025 02:12:09.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 12.530649207931617,0.0,-0.7546129504979717
+[26Jul2025 02:12:09.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 10.297579120303283,0.0,-0.6955873918194015
+[26Jul2025 02:12:10.649] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[26Jul2025 02:12:10.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[26Jul2025 02:12:10.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[26Jul2025 02:12:10.651] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[26Jul2025 02:12:10.671] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[26Jul2025 02:12:19.725] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[26Jul2025 02:12:27.170] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_engineer
+[26Jul2025 02:12:27.172] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_hunter
+[26Jul2025 02:12:27.175] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[26Jul2025 02:12:32.942] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[26Jul2025 02:12:35.972] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[26Jul2025 02:12:38.545] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[26Jul2025 02:12:39.841] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_01
+[26Jul2025 02:12:41.635] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[26Jul2025 02:12:45.281] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[26Jul2025 02:12:45.292] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/staircase is being run through DFU (hash 3c0815a0bac672c8254edd4fac8774e53b46f25695e37f40eaf7929da85e30b9), this will cause launch time delays
+[26Jul2025 02:12:45.298] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[26Jul2025 02:12:46.121] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jul2025 02:12:46.124] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/basement is being run through DFU (hash a0201551ff55bb5c6e98126314bcede86796000369b972ddfb597a9039f25ea6), this will cause launch time delays
+[26Jul2025 02:12:46.267] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway is being run through DFU (hash 112e690566ac507d0e351955af59e8b028cd93963a29ff3e51feeb952701c0f8), this will cause launch time delays
+[26Jul2025 02:12:46.285] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jul2025 02:12:46.285] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/junction is being run through DFU (hash df0e4ebe73d446b6af7e73e6d47b2a2003f0c38a0ac884625889eed4aa4aab3b), this will cause launch time delays
+[26Jul2025 02:12:46.295] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack is being run through DFU (hash faeb48fce9997a048508c7dced1cde411fd6cfebb1152d2706c29ae79a6d9b0d), this will cause launch time delays
+[26Jul2025 02:12:46.330] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped is being run through DFU (hash 255ec8a4267f10f595c62bde654e0e64b9cd9130c56e9df90f8f712fe37cda35), this will cause launch time delays
+[26Jul2025 02:12:46.341] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end is being run through DFU (hash 15b38ac94ad2d9e2e32b55c21612c45a3def8c98c5a1beb3a8ff1481617f2b07), this will cause launch time delays
+[26Jul2025 02:12:46.344] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage is being run through DFU (hash 1d9302405e7a722df261d2baa708c379c318e5d34e4e4df847db212717775e79), this will cause launch time delays
+[26Jul2025 02:12:46.353] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret is being run through DFU (hash daf24d8fe1943f83b857676b366e2b20c22fe646558228409eccdac21b0752fc), this will cause launch time delays
+[26Jul2025 02:12:46.364] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell is being run through DFU (hash f0b4b0bc758aa76668a36d059d4a6f3e59676abfaa345bbc63c75d0481123131), this will cause launch time delays
+[26Jul2025 02:12:46.368] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn is being run through DFU (hash 1a98376213106f17a566433dd45f7c49572289fd15532acb67303f6686393d57), this will cause launch time delays
+[26Jul2025 02:12:46.374] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2 is being run through DFU (hash 04b6097ae405b90ce5f29101f28bb8c2ec28069b7581dc8d5feb1e18472ff455), this will cause launch time delays
+[26Jul2025 02:12:46.378] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage is being run through DFU (hash 70f314b09ad5aca4f0b46a4af19fd0f5eb9c37695b1d17e9fb9abb174b2f1dff), this will cause launch time delays
+[26Jul2025 02:12:46.383] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks is being run through DFU (hash c3dd3a9638990ccef6d21bb9d4ba7a6da8ae8a095ee529b9b783e8548ce2dd1c), this will cause launch time delays
+[26Jul2025 02:12:46.393] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening is being run through DFU (hash fb597bc343ece17eabf6350e005963175205e285d9b9bb72d6197a35eb300ec0), this will cause launch time delays
+[26Jul2025 02:12:46.396] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage is being run through DFU (hash 8e26b498cd07c30cfb1f815977d24404de399f713931ce444d8a85aee5138a65), this will cause launch time delays
+[26Jul2025 02:12:46.402] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/wall is being run through DFU (hash 180fea8e3c781df8c55357596400aa3f4c9fa34410d2b006ea713bf5053af98c), this will cause launch time delays
+[26Jul2025 02:12:50.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -7.877054518992281,0.0,7.24443372775653
+[26Jul2025 02:12:53.837] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[26Jul2025 02:13:05.845] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=65, z=288}
+[26Jul2025 02:13:05.848] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=53, z=311}
+[26Jul2025 02:13:05.888] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=53, z=311}
+[26Jul2025 02:13:05.895] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=65, z=288}
+[26Jul2025 02:13:05.897] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-960, y=60, z=291}
+[26Jul2025 02:13:05.897] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=53, z=311}
+[26Jul2025 02:13:09.706] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=65, z=288}
+[26Jul2025 02:13:09.708] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=53, z=311}
+[26Jul2025 02:13:09.745] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=65, z=288}
+[26Jul2025 02:13:09.750] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-960, y=60, z=291}
+[26Jul2025 02:13:09.750] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=53, z=311}
+[26Jul2025 02:13:09.754] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-972, y=46, z=302}
+[26Jul2025 02:13:09.754] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-978, y=46, z=295}
+[26Jul2025 02:13:09.754] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-965, y=46, z=289}
+[26Jul2025 02:13:09.755] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-978, y=46, z=282}
+[26Jul2025 02:13:09.808] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=53, z=311}
+[26Jul2025 02:13:09.810] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-978, y=46, z=282}
+[26Jul2025 02:13:15.037] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=65, z=288}
+[26Jul2025 02:13:15.041] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=53, z=311}
+[26Jul2025 02:13:15.043] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-979, y=46, z=303}
+[26Jul2025 02:13:15.075] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=65, z=288}
+[26Jul2025 02:13:15.077] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=53, z=311}
+[26Jul2025 02:13:15.079] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-972, y=46, z=302}
+[26Jul2025 02:13:15.079] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-978, y=46, z=295}
+[26Jul2025 02:13:15.079] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-985, y=46, z=295}
+[26Jul2025 02:13:15.079] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-978, y=46, z=282}
+[26Jul2025 02:13:15.079] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-992, y=46, z=295}
+[26Jul2025 02:13:15.080] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-985, y=46, z=296}
+[26Jul2025 02:13:15.080] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-985, y=46, z=282}
+[26Jul2025 02:13:15.080] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-979, y=46, z=303}
+[26Jul2025 02:13:15.198] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-955, y=53, z=311}
+[26Jul2025 02:13:15.201] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-978, y=46, z=282}
+[26Jul2025 02:13:15.201] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-985, y=46, z=282}
+[26Jul2025 02:13:28.819] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[26Jul2025 02:13:39.349] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[26Jul2025 02:13:51.259] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_03
+[26Jul2025 02:13:51.561] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[26Jul2025 02:13:52.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -4.398813599413643,0.0,9.516182802711171
+[26Jul2025 02:13:58.829] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[26Jul2025 02:13:58.930] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[26Jul2025 02:14:02.030] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[26Jul2025 02:14:15.160] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[26Jul2025 02:14:41.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 02:14:41.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 02:15:05.271] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[26Jul2025 02:15:05.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> donde estas
+[26Jul2025 02:15:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> ya voy
+[26Jul2025 02:15:39.489] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_02
+[26Jul2025 02:15:42.477] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[26Jul2025 02:16:09.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 went up in flames
+[26Jul2025 02:16:17.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> justo llege xdxd
+[26Jul2025 02:16:29.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> holaaa :D
+[26Jul2025 02:17:09.495] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[26Jul2025 02:17:32.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Skeleton
+[26Jul2025 02:18:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 tried to swim in lava

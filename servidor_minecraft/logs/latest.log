@@ -1139,3 +1139,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jul2025 02:07:49.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 moved wrongly!
 [26Jul2025 02:07:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> xd
 [26Jul2025 02:08:31.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[26Jul2025 02:10:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> recupere mis cosas
+[26Jul2025 02:11:01.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> godd
+[26Jul2025 02:11:32.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 0.3958501482500054
+[26Jul2025 02:11:32.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 1.8556613732675231
+[26Jul2025 02:11:32.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 3.3874779275958815
+[26Jul2025 02:11:32.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 4.917390466512273
+[26Jul2025 02:11:32.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 6.471154914876664
+[26Jul2025 02:11:32.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 8.049274197856732
+[26Jul2025 02:11:32.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -10.882129129209162,0.0,3.1400333688998217
+[26Jul2025 02:11:33.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -12.527646743987916,0.0,3.609187765462707
+[26Jul2025 02:11:33.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -14.196708418832017,0.0,4.0734013522717305
+[26Jul2025 02:11:33.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -15.888826812960659,0.0,4.528483884984098
+[26Jul2025 02:11:33.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved wrongly! 0.41828289360937276
+[26Jul2025 02:11:39.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[26Jul2025 02:11:49.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> :(
+[26Jul2025 02:11:58.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> no guardaste spawn?
+[26Jul2025 02:12:01.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 1.7309735998111933,0.0,-10.244707483598347
+[26Jul2025 02:12:01.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.018214976889965,0.0,-12.031448740851658
+[26Jul2025 02:12:01.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.305304656552721,0.0,-13.840229964884259
+[26Jul2025 02:12:01.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.592301543869212,0.0,-15.670826803705438
+[26Jul2025 02:12:01.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.8792601240964473,0.0,-17.523017335106942
+[26Jul2025 02:12:01.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 3.1662266824007474,0.0,-19.396582340388136
+[26Jul2025 02:12:01.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.00903341459599,0.0,-12.811116643642208
+[26Jul2025 02:12:01.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.2934258813846213,0.0,-14.726925587726498
+[26Jul2025 02:12:01.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.574752000149658,0.0,-16.66357584134829
+[26Jul2025 02:12:01.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 2.8519957044131274,0.0,-18.620839471089766
+[26Jul2025 02:12:01.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 3.124259164451587,0.0,-20.59846950302881
+[26Jul2025 02:12:01.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 3.3907503331762427,0.0,-22.596206829842117
+[26Jul2025 02:12:03.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> no
+[26Jul2025 02:12:09.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -10.091785149430507,0.0,0.8638228382742454
+[26Jul2025 02:12:09.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -12.16499229753805,0.0,1.0000733348790618
+[26Jul2025 02:12:09.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 16.945086821228017,0.0,-0.8964813294838905
+[26Jul2025 02:12:09.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 16.945086821228017,0.0,-0.8964813294838905
+[26Jul2025 02:12:09.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 14.746473648128415,0.0,-0.8211842567625922
+[26Jul2025 02:12:09.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 12.530649207931617,0.0,-0.7546129504979717
+[26Jul2025 02:12:09.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! 10.297579120303283,0.0,-0.6955873918194015
+[26Jul2025 02:12:10.649] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[26Jul2025 02:12:10.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[26Jul2025 02:12:10.650] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[26Jul2025 02:12:10.651] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[26Jul2025 02:12:10.671] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[26Jul2025 02:12:32.942] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/samurai_dynasty/entity/variant/KomainuVariant
+[26Jul2025 02:12:45.298] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[26Jul2025 02:12:46.121] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jul2025 02:12:46.285] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jul2025 02:12:50.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -7.877054518992281,0.0,7.24443372775653
+[26Jul2025 02:13:52.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YOUNGDINO07) moved too quickly! -4.398813599413643,0.0,9.516182802711171
+[26Jul2025 02:14:02.030] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[26Jul2025 02:15:05.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lobo3224> donde estas
+[26Jul2025 02:15:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> ya voy
+[26Jul2025 02:15:42.477] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[26Jul2025 02:16:09.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 went up in flames
+[26Jul2025 02:16:17.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> justo llege xdxd
+[26Jul2025 02:16:29.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YOUNGDINO07> holaaa :D
+[26Jul2025 02:17:32.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Skeleton
+[26Jul2025 02:18:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 tried to swim in lava
